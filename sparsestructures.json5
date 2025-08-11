@@ -558,5 +558,5 @@
   
     // Deep Blue: 1
     { "structure": "kattersstructures:deep_blue_labs", "factor": 0.5, "customSpread": true, "dimension": "deep_blue" },
-  
+  ]
 }
