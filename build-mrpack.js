@@ -29,6 +29,7 @@ await pack.buildIcon();
 await pack.copyOverrideMods()
 
 await pack.addOverrideDirectory('../configureddefaults', 'configureddefaults');
+await pack.addOverrideDirectory('../datapacks', 'datapacks');
 await pack.addOverrideDirectory('../ftbquests', 'ftbquests');
 await pack.addOverrideDirectory('../kubejs', 'kubejs');
 await pack.addOverrideFile('../icon.png', 'icon.png');

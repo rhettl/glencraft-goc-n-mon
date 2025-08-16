@@ -30,6 +30,7 @@ await pack.copyMods();
 await pack.downloadServerJars();
 
 await pack.addDirectory('../configureddefaults', 'configureddefaults');
+await pack.addDirectory('../datapacks', 'datapacks');
 await pack.addDirectory('../ftbquests', 'ftbquests');
 await pack.addDirectory('../kubejs', 'kubejs');
 await pack.addFile('../default-server.properties', 'default-server.properties');
