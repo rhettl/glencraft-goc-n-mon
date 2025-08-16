@@ -2,5 +2,3122 @@
   "version": "0.0.3",
   "name": "GlenCraft: Cog & Mon",
   "summary": "GlenCraft: Cog & Mon is a modpack that combines Create Mod, Cobblemon, and exploration forward mods.",
-  "icon": "../icon.png"
+  "icon": "../icon.png",
+  "neoforge": "21.1.196",
+  "files": [
+    {
+      "filePath": "../mods/accessories-neoforge-1.1.0-beta.48+1.21.1.jar",
+      "filename": "accessories-neoforge-1.1.0-beta.48+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/adorabuild-structures-2.10.1-neoforge-1.21.3.jar",
+      "filename": "adorabuild-structures-2.10.1-neoforge-1.21.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/aether_ores-1.0.0-neoforge-1.21.1.jar",
+      "filename": "aether_ores-1.0.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/aether_enhanced_extinguishing-1.21.1-1.0.0-neoforge.jar",
+      "filename": "aether_enhanced_extinguishing-1.21.1-1.0.0-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/aether_treasure_reforging-1.21.1-1.0.1-neoforge.jar",
+      "filename": "aether_treasure_reforging-1.21.1-1.0.1-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/AetherVillages-1.21.1-1.0.8-neoforge.jar",
+      "filename": "AetherVillages-1.21.1-1.0.8-neoforge.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/aether-1.21.1-1.5.8-neoforge.jar",
+      "filename": "aether-1.21.1-1.5.8-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/AI-Improvements-1.21-0.5.3.jar",
+      "filename": "AI-Improvements-1.21-0.5.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/amendments-1.21-1.2.24-neoforge.jar",
+      "filename": "amendments-1.21-1.2.24-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/another_furniture-neoforge-4.0.0.jar",
+      "filename": "another_furniture-neoforge-4.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/appleskin-neoforge-mc1.21-3.0.7.jar",
+      "filename": "appleskin-neoforge-mc1.21-3.0.7.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+      "filename": "aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/architectury-13.0.8-neoforge.jar",
+      "filename": "architectury-13.0.8-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ArmorStatues-v21.1.0-1.21.1-NeoForge.jar",
+      "filename": "ArmorStatues-v21.1.0-1.21.1-NeoForge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/artifacts-neoforge-13.0.7.jar",
+      "filename": "artifacts-neoforge-13.0.7.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/asian_food_cart-1.0.0-neoforge-1.21.1.jar",
+      "filename": "asian_food_cart-1.0.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/asianfountain-1.0.0-neoforge-1.21.1.jar",
+      "filename": "asianfountain-1.0.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/baguettelib-1.21.1-NeoForge-1.0.0.jar",
+      "filename": "baguettelib-1.21.1-NeoForge-1.0.0.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/balm-neoforge-1.21.1-21.0.49.jar",
+      "filename": "balm-neoforge-1.21.1-21.0.49.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/bellsandwhistles-0.4.7-1.21.1.jar",
+      "filename": "bellsandwhistles-0.4.7-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/berrypouch-neoforge-1.21.1-0.4.2-beta.jar",
+      "filename": "berrypouch-neoforge-1.21.1-0.4.2-beta.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/BetterTridents-v21.1.0-1.21.1-NeoForge.jar",
+      "filename": "BetterTridents-v21.1.0-1.21.1-NeoForge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/bettervillage-neoforge-1.21.1-3.3.1.jar",
+      "filename": "bettervillage-neoforge-1.21.1-3.3.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar",
+      "filename": "BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_bb-1.0.3.jar",
+      "filename": "create_bb-1.0.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/blossom-blade-1.3.jar",
+      "filename": "blossom-blade-1.3.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/bookshelf-neoforge-1.21.1-21.1.67.jar",
+      "filename": "bookshelf-neoforge-1.21.1-21.1.67.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/BrewinAndChewin-neoforge-4.4.1+1.21.1.jar",
+      "filename": "BrewinAndChewin-neoforge-4.4.1+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/buildersaddition2-neoforge-1.21.1-2.1.1.jar",
+      "filename": "buildersaddition2-neoforge-1.21.1-2.1.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/caelus-neoforge-7.0.1+1.21.1.jar",
+      "filename": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/carryon-neoforge-1.21.1-2.2.2.11.jar",
+      "filename": "carryon-neoforge-1.21.1-2.2.2.11.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cherry_grove_starter_house-1.0.0-neoforge-1.21.1.jar",
+      "filename": "cherry_grove_starter_house-1.0.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cherry_samurai_temple-1.0.1-neoforge-1.21.1.jar",
+      "filename": "cherry_samurai_temple-1.0.1-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cherry-villages-1.1.2.jar",
+      "filename": "cherry-villages-1.1.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "filename": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ChunkyMcChunkFace-1.21.1-0.4.2.jar",
+      "filename": "ChunkyMcChunkFace-1.21.1-0.4.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cloth-config-15.0.140-neoforge.jar",
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblebuilds-leaders-1.0.0-beta.4.jar",
+      "filename": "cobblebuilds-leaders-1.0.0-beta.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1.jar",
+      "filename": "CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/CobbleFurnies-neoforge-0.6.3.jar",
+      "filename": "CobbleFurnies-neoforge-0.6.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobbleloots-neoforge-2.0.8.jar",
+      "filename": "cobbleloots-neoforge-2.0.8.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon-additions-CDI-3.9.2.jar",
+      "filename": "cobblemon-additions-CDI-3.9.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemonboxlink-neoforge-1.21.1-1.0.4.jar",
+      "filename": "cobblemonboxlink-neoforge-1.21.1-1.0.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/capturexp-neoforge-1.6.1-1.2.1.jar",
+      "filename": "capturexp-neoforge-1.6.1-1.2.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon-counter-1.6-neoforge-1.5.1.jar",
+      "filename": "cobblemon-counter-1.6-neoforge-1.5.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon_industries-1.2.3-neoforge-1.21.1.jar",
+      "filename": "cobblemon_industries-1.2.3-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/fightorflight-neoforge-0.8.3.jar",
+      "filename": "fightorflight-neoforge-0.8.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemonintegrations-neoforge-1.21.1-1.1.3.jar",
+      "filename": "cobblemonintegrations-neoforge-1.21.1-1.1.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon-legendary-structures-2.2.jar",
+      "filename": "cobblemon-legendary-structures-2.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Cobblemon_MegaShowdown-10.0.6-release-neoforge.jar",
+      "filename": "Cobblemon_MegaShowdown-10.0.6-release-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/MythsAndLegends-neoforge-1.8.0.jar",
+      "filename": "MythsAndLegends-neoforge-1.8.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/playerxp-neoforge-1.0.0+1.21.1.jar",
+      "filename": "playerxp-neoforge-1.0.0+1.21.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon_poke_labs-1.0.0-neoforge-1.21.1.jar",
+      "filename": "cobblemon_poke_labs-1.0.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemonpokemonbadges-neoforge-0.1.1.jar",
+      "filename": "cobblemonpokemonbadges-neoforge-0.1.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblenav-neoforge-2.2.3.jar",
+      "filename": "cobblenav-neoforge-2.2.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon_quests-[1.21.1]-neoforge-1.1.14.jar",
+      "filename": "cobblemon_quests-[1.21.1]-neoforge-1.1.14.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/releaserewards-neoforge-2.2.0.jar",
+      "filename": "releaserewards-neoforge-2.2.0.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobbleride-neoforge-0.3.3+1.21.1.jar",
+      "filename": "cobbleride-neoforge-0.3.3+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/SafePastures-1.1.0+1.21.1.jar",
+      "filename": "SafePastures-1.1.0+1.21.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon_spawn_alerts-neoforge-1.8.2.jar",
+      "filename": "cobblemon_spawn_alerts-neoforge-1.8.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon-spawn-notification-1.6-neoforge-1.3.8.jar",
+      "filename": "cobblemon-spawn-notification-1.6-neoforge-1.3.8.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/timcore-neoforge-1.6.1-1.5.3.jar",
+      "filename": "timcore-neoforge-1.6.1-1.5.3.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon-unchained-1.6-neoforge-1.3.0.jar",
+      "filename": "cobblemon-unchained-1.6-neoforge-1.3.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemon-whiteout-1.6-neoforge-1.2.2.jar",
+      "filename": "cobblemon-whiteout-1.6-neoforge-1.2.2.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Cobblemon-neoforge-1.6.1+1.21.1.jar",
+      "filename": "Cobblemon-neoforge-1.6.1+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemonextrastructures-1.21.1-1.1.0-neoforge.jar",
+      "filename": "cobblemonextrastructures-1.21.1-1.1.0-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblemore_lib-1.1.1-neoforge-1.21.1.jar",
+      "filename": "cobblemore_lib-1.1.1-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobblestructures-1.1.0.jar",
+      "filename": "cobblestructures-1.1.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobbleworkers-neoforge-1.5.0+1.6.1.jar",
+      "filename": "cobbleworkers-neoforge-1.5.0+1.6.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Cobbreeding-neoforge-1.9.1.jar",
+      "filename": "Cobbreeding-neoforge-1.9.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobgyms-neoforge-3.0.1+1.21.1.jar",
+      "filename": "cobgyms-neoforge-3.0.1+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cobweb-neoforge-1.21-1.3.3.jar",
+      "filename": "cobweb-neoforge-1.21-1.3.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/collective-1.21.1-8.3.jar",
+      "filename": "collective-1.21.1-8.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/comforts-neoforge-9.0.4+1.21.1.jar",
+      "filename": "comforts-neoforge-9.0.4+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+      "filename": "ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/configured-neoforge-1.21.1-2.6.0.jar",
+      "filename": "configured-neoforge-1.21.1-2.6.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ConnectorExtras-1.12.1+1.21.1.jar",
+      "filename": "ConnectorExtras-1.12.1+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/connector-2.0.0-beta.8+1.21.1-full.jar",
+      "filename": "connector-2.0.0-beta.8+1.21.1-full.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/copycats-3.0.2+mc.1.21.1-neoforge.jar",
+      "filename": "copycats-3.0.2+mc.1.21.1-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Corgilib-NeoForge-1.21.1-5.0.0.7.jar",
+      "filename": "Corgilib-NeoForge-1.21.1-5.0.0.7.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "filename": "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/gravestonecurioscompat-1.21.1-NeoForge-3.0.2.jar",
+      "filename": "gravestonecurioscompat-1.21.1-NeoForge-3.0.2.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/corpse-neoforge-1.21.1-1.1.10.jar",
+      "filename": "corpse-neoforge-1.21.1-1.1.10.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "filename": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/CosmeticArmours - 1.5.2.1 - 1.21.1 - NeoForge.jar",
+      "filename": "CosmeticArmours - 1.5.2.1 - 1.21.1 - NeoForge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Recipes For Create-1.2.1.jar",
+      "filename": "Recipes For Create-1.2.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/craftingtweaks-neoforge-1.21.1-21.1.6.jar",
+      "filename": "craftingtweaks-neoforge-1.21.1-21.1.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.9.15.jar",
+      "filename": "CrashAssistant-neoforge-1.20.6-1.21.4-1.9.15.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_aquatic_ambitions-1.21.1-2.0.1.jar",
+      "filename": "create_aquatic_ambitions-1.21.1-2.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_better_villagers-1.3.2.jar",
+      "filename": "create_better_villagers-1.3.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_blaze_burner_fuels-1.0.0-neoforge-1.21.1.jar",
+      "filename": "create_blaze_burner_fuels-1.0.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_cardboarded_conveynience-0.0.3b.jar",
+      "filename": "create_cardboarded_conveynience-0.0.3b.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-central-kitchen-2.1.3.jar",
+      "filename": "create-central-kitchen-2.1.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createcobblemonballsoverhaul-0.0.3.jar",
+      "filename": "createcobblemonballsoverhaul-0.0.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_cobblemon_potion-1.0.1.jar",
+      "filename": "create_cobblemon_potion-1.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_connected-1.1.6-mc1.21.1.jar",
+      "filename": "create_connected-1.1.6-mc1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createcontraptionterminals-1.21-1.2.0.jar",
+      "filename": "createcontraptionterminals-1.21-1.2.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar",
+      "filename": "create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+      "filename": "create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_deep_dark-2.0.0-neoforge-1.21.1.jar",
+      "filename": "create_deep_dark-2.0.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_dimension-1.0.3.jar",
+      "filename": "create_dimension-1.0.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-dragons-plus-1.6.1.jar",
+      "filename": "create-dragons-plus-1.6.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_easy_structures-0.2a-neoforge-1.21.1.jar",
+      "filename": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Create Encased-1.21.1-1.7.2-fix1.jar",
+      "filename": "Create Encased-1.21.1-1.7.2-fix1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createenchantablemachinery-3.4.2+mc1.21.1-neoforge.jar",
+      "filename": "createenchantablemachinery-3.4.2+mc1.21.1-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-enchantment-industry-2.1.7.jar",
+      "filename": "create-enchantment-industry-2.1.7.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createenderlink-1.4.1+mc1.21.1-neoforge.jar",
+      "filename": "createenderlink-1.4.1+mc1.21.1-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createfiltersanywhere-1.7.0.jar",
+      "filename": "createfiltersanywhere-1.7.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createfisheryindustry-4.1.0.jar",
+      "filename": "createfisheryindustry-4.1.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createfood-neoforge-1.21.1-2.0.0-beta-3.jar",
+      "filename": "createfood-neoforge-1.21.1-2.0.0-beta-3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createframed-1.21.1-1.6.8.jar",
+      "filename": "createframed-1.21.1-1.6.8.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/garnished-2.1.6.5+1.21.1-neoforged.jar",
+      "filename": "garnished-2.1.6.5+1.21.1-neoforged.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/CreateHavenQualities-NeoForge-1.21.1-1.0.2.jar",
+      "filename": "CreateHavenQualities-NeoForge-1.21.1-1.0.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-integrated-farming-1.0.6.jar",
+      "filename": "create-integrated-farming-1.0.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_jetpack-forge-5.1.0.jar",
+      "filename": "create_jetpack-forge-5.1.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_ltab-2.8.4.jar",
+      "filename": "create_ltab-2.8.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createliquidfuel-2.1.1-1.21.1.jar",
+      "filename": "createliquidfuel-2.1.1-1.21.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-man-of-many-planes-1.1.jar",
+      "filename": "create-man-of-many-planes-1.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_mechanical_spawner-1.21.1-1.2.4-6.0.6.jar",
+      "filename": "create_mechanical_spawner-1.21.1-1.2.4-6.0.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_things_and_misc-4.0-neoforge-1.21.1.jar",
+      "filename": "create_things_and_misc-4.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_mobile_packages-1.21.1-0.5.4.jar",
+      "filename": "create_mobile_packages-1.21.1-0.5.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/molten_vents-1.21.1-2.1.1.jar",
+      "filename": "molten_vents-1.21.1-2.1.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_mf-0.9.4-neoforge-1.21.1.jar",
+      "filename": "create_mf-0.9.4-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cmlinkedremote-1.0.1.jar",
+      "filename": "cmlinkedremote-1.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cmpackagecouriers-1.1.0.jar",
+      "filename": "cmpackagecouriers-1.1.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cmpackagepipebomb-1.0.0.jar",
+      "filename": "cmpackagepipebomb-1.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createnetherindustry-0.2.2.jar",
+      "filename": "createnetherindustry-0.2.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createnewbeg-0.1.0-1.21.1.jar",
+      "filename": "createnewbeg-0.1.0-1.21.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createornithopterglider-1.0.2-1.21.1.jar",
+      "filename": "createornithopterglider-1.0.2-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_pattern_schematics-2.0.9.jar",
+      "filename": "create_pattern_schematics-2.0.9.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_pillagers_arise-118.28.GL-neoforge-1.21.1.jar",
+      "filename": "create_pillagers_arise-118.28.GL-neoforge-1.21.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_portable_packaging-0.1.2.jar",
+      "filename": "create_portable_packaging-0.1.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_power_loader-2.0.3-mc1.21.1.jar",
+      "filename": "create_power_loader-2.0.3-mc1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Create Quality of Life-1.21.1-1.5.1-fix2.jar",
+      "filename": "Create Quality of Life-1.21.1-1.5.1-fix2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createrailwaysnavigator-neoforge-1.21.1-beta-0.8.4.jar",
+      "filename": "createrailwaysnavigator-neoforge-1.21.1-beta-0.8.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_regex-1.0.0.jar",
+      "filename": "create_regex-1.0.0.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-renewable-brass-1.0.1.jar",
+      "filename": "create-renewable-brass-1.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-renewable-netherite-2.0.0.jar",
+      "filename": "create-renewable-netherite-2.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
+      "filename": "create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_sophback_compat-1.0.jar",
+      "filename": "create_sophback_compat-1.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Stam1oCreateTweaks-1.0.8+1.21.1-Neo.jar",
+      "filename": "Stam1oCreateTweaks-1.0.8+1.21.1-Neo.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-stones-2.0.0.jar",
+      "filename": "create-stones-2.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_structures_arise-162.35.34-neoforge-1.21.1.jar",
+      "filename": "create_structures_arise-162.35.34-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-stuff-additions1.21.1_v2.1.0e.jar",
+      "filename": "create-stuff-additions1.21.1_v2.1.0e.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/trading_floor-3.0.10.jar",
+      "filename": "trading_floor-3.0.10.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_train_parts-0.2.0-1.21.1.jar",
+      "filename": "create_train_parts-0.2.0-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/trialanderror-1.0.1.jar",
+      "filename": "trialanderror-1.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_trimmed.jar",
+      "filename": "create_trimmed.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_ultimate_factory-2.1.1-neoforge-1.21.1.jar",
+      "filename": "create_ultimate_factory-2.1.1-neoforge-1.21.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_vibrant_vaults-0.3.2.jar",
+      "filename": "create_vibrant_vaults-0.3.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar",
+      "filename": "create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_winery-1.7.0-neoforge-1.21.1.jar",
+      "filename": "create_winery-1.7.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create-1.21.1-6.0.6.jar",
+      "filename": "create-1.21.1-6.0.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_factory_logistics-1.21.1-1.4.6.jar",
+      "filename": "create_factory_logistics-1.21.1-1.4.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_oxidized-0.1.3.jar",
+      "filename": "create_oxidized-0.1.3.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/createaddition-1.5.1.jar.disabled",
+      "filename": "createaddition-1.5.1.jar",
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "isDisabled": true
+    },
+    {
+      "filePath": "../mods/createbarters-1.0.1.jar",
+      "filename": "createbarters-1.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cristellib-neoforge-1.2.8.jar",
+      "filename": "cristellib-neoforge-1.2.8.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/crittersandcompanions-neoforge-1.21.1-2.3.1.jar",
+      "filename": "crittersandcompanions-neoforge-1.21.1-2.3.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/[neoforge]ctov-3.5.9a.jar",
+      "filename": "[neoforge]ctov-3.5.9a.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/cupboard-1.21-2.9.jar",
+      "filename": "cupboard-1.21-2.9.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dawnoftimebuilder-neoforge-1.21.1-1.6.1.jar",
+      "filename": "dawnoftimebuilder-neoforge-1.21.1-1.6.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/deep_aether-1.21.1-1.1.4.jar",
+      "filename": "deep_aether-1.21.1-1.1.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/deeperdarker-neoforge-1.21-1.3.4.jar",
+      "filename": "deeperdarker-neoforge-1.21-1.3.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/default-server-properties-neoforge-21.0.0.jar",
+      "filename": "default-server-properties-neoforge-21.0.0.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/delivery_director-1.0.1.jar",
+      "filename": "delivery_director-1.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar.disabled",
+      "filename": "DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar",
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "isDisabled": true
+    },
+    {
+      "filePath": "../mods/doubledoors-1.21.1-7.1.jar",
+      "filename": "doubledoors-1.21.1-7.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
+      "filename": "DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/DungeonCrawl-NeoForge-1.21-2.3.15.jar",
+      "filename": "DungeonCrawl-NeoForge-1.21-2.3.15.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dungeons-and-taverns-ancient-city-overhaul-v2.jar",
+      "filename": "dungeons-and-taverns-ancient-city-overhaul-v2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dungeons-and-taverns-desert-temple-replacement-v1.2.jar",
+      "filename": "dungeons-and-taverns-desert-temple-replacement-v1.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dungeons-and-taverns-end-castle-standalone-v1.1.jar",
+      "filename": "dungeons-and-taverns-end-castle-standalone-v1.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dungeons-and-taverns-jungle-temple-replacement-v1.2.jar",
+      "filename": "dungeons-and-taverns-jungle-temple-replacement-v1.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar",
+      "filename": "dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dungeons-and-taverns-ocean-monument-replacement-v1.2.jar",
+      "filename": "dungeons-and-taverns-ocean-monument-replacement-v1.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
+      "filename": "dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dungeons-and-taverns-woodland-mansion-replacement-v1.2.jar",
+      "filename": "dungeons-and-taverns-woodland-mansion-replacement-v1.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/dungeons-and-taverns-v4.4.4.jar",
+      "filename": "dungeons-and-taverns-v4.4.4.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/enchanting-infuser-add-treasure-enchantements-1.jar",
+      "filename": "enchanting-infuser-add-treasure-enchantements-1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/EnchantingInfuser-v21.1.2-1.21.1-NeoForge.jar",
+      "filename": "EnchantingInfuser-v21.1.2-1.21.1-NeoForge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/end_villager_trader-1.0.1-neoforge-1.21.1.jar",
+      "filename": "end_villager_trader-1.0.1-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/endervillages-2.0-1.21.1.jar",
+      "filename": "endervillages-2.0-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ends_delight-2.5.1+neoforge.1.21.1.jar",
+      "filename": "ends_delight-2.5.1+neoforge.1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/expandeddelight-0.1.3.2.jar",
+      "filename": "expandeddelight-0.1.3.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ExplorersCompass-1.21.1-3.0.3-neoforge.jar",
+      "filename": "ExplorersCompass-1.21.1-3.0.3-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/extendedwrenches-1.21.1-1.3.0.jar",
+      "filename": "extendedwrenches-1.21.1-1.3.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/extra_gauges-1.1.1.jar.disabled",
+      "filename": "extra_gauges-1.1.1.jar",
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "isDisabled": true
+    },
+    {
+      "filePath": "../mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
+      "filename": "fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/farmers-cutting-biomes-o-plenty-2.0.0.jar",
+      "filename": "farmers-cutting-biomes-o-plenty-2.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar",
+      "filename": "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/FarmersDelight-1.21.1-1.2.8.jar",
+      "filename": "FarmersDelight-1.21.1-1.2.8.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/fastleafdecay-35.jar",
+      "filename": "fastleafdecay-35.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ferritecore-7.0.2-neoforge.jar",
+      "filename": "ferritecore-7.0.2-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/findme-3.3.3-neoforge.jar",
+      "filename": "findme-3.3.3-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ForgeEndertech-1.21.1-12.1.0.0-NeoForge-build.0408.jar",
+      "filename": "ForgeEndertech-1.21.1-12.1.0.0-NeoForge-build.0408.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/forgified-fabric-api-0.115.6+2.1.1+1.21.1.jar",
+      "filename": "forgified-fabric-api-0.115.6+2.1.1+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ftb-backups-3-21.1.3.jar",
+      "filename": "ftb-backups-3-21.1.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ftb-chunks-neoforge-2101.1.9.jar",
+      "filename": "ftb-chunks-neoforge-2101.1.9.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ftb-essentials-neoforge-2101.1.6.jar",
+      "filename": "ftb-essentials-neoforge-2101.1.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ftb-filter-system-neoforge-21.1.2.jar",
+      "filename": "ftb-filter-system-neoforge-21.1.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ftb-jei-extras-21.1.7.jar",
+      "filename": "ftb-jei-extras-21.1.7.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ftb-library-neoforge-2101.1.19.jar",
+      "filename": "ftb-library-neoforge-2101.1.19.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ftb-quests-neoforge-2101.1.14.jar",
+      "filename": "ftb-quests-neoforge-2101.1.14.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/FTBQuestsOptimizer-neoforge-3.0.0-1.21.1.jar",
+      "filename": "FTBQuestsOptimizer-neoforge-3.0.0-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ftb-teams-neoforge-2101.1.2.jar",
+      "filename": "ftb-teams-neoforge-2101.1.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ftb-xmod-compat-neoforge-21.1.5.jar",
+      "filename": "ftb-xmod-compat-neoforge-21.1.5.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/full_bloom-1.0.1.jar",
+      "filename": "full_bloom-1.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/fusion-1.2.10-neoforge-mc1.21.jar",
+      "filename": "fusion-1.2.10-neoforge-mc1.21.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/garnished_additions-0.8.2+1.21.1-neoforged.jar",
+      "filename": "garnished_additions-0.8.2+1.21.1-neoforged.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/GnKinetics-1.21.1-1.0k.jar",
+      "filename": "GnKinetics-1.21.1-1.0k.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/geckolib-neoforge-1.21.1-4.7.6.jar",
+      "filename": "geckolib-neoforge-1.21.1-4.7.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "filename": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/golemoverhaul-neoforge-1.21.1-1.0.1.jar",
+      "filename": "golemoverhaul-neoforge-1.21.1-1.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "filename": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/harvest-with-ease-neoforge-1.21-9.4.0.jar",
+      "filename": "harvest-with-ease-neoforge-1.21-9.4.0.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/hiddenmons-cobblemon-v0.6.jar",
+      "filename": "hiddenmons-cobblemon-v0.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+      "filename": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_hypertube-0.2.5-NEOFORGE.jar",
+      "filename": "create_hypertube-0.2.5-NEOFORGE.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/i_wanna_travel-0.4-neoforge-1.21.1.jar",
+      "filename": "i_wanna_travel-0.4-neoforge-1.21.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/immersive_aircraft-1.3.3+1.21.1-neoforge.jar",
+      "filename": "immersive_aircraft-1.3.3+1.21.1-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/[neoforge]imst-2.2.1b.jar",
+      "filename": "[neoforge]imst-2.2.1b.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Jade-1.21.1-NeoForge-15.10.3.jar",
+      "filename": "Jade-1.21.1-NeoForge-15.10.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/jei-1.21.1-neoforge-19.22.1.316.jar",
+      "filename": "jei-1.21.1-neoforge-19.22.1.316.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/jearchaeology-1.21.0-1.1.5.jar",
+      "filename": "jearchaeology-1.21.0-1.1.5.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar",
+      "filename": "JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar",
+      "filename": "justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/katters-structures-only-ambient-2.1.jar",
+      "filename": "katters-structures-only-ambient-2.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/katters-structures-only-dungeon-2.1.jar",
+      "filename": "katters-structures-only-dungeon-2.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/katters-structures-only-village-2.1.jar",
+      "filename": "katters-structures-only-village-2.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/katters-structures-2.1.jar",
+      "filename": "katters-structures-2.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/create_klinks_n_klangs-2.0.1.jar",
+      "filename": "create_klinks_n_klangs-2.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/kotlinforforge-5.9.0-all.jar",
+      "filename": "kotlinforforge-5.9.0-all.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/kubejstweaks-0.0.3-beta.jar",
+      "filename": "kubejstweaks-0.0.3-beta.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/kubejs-neoforge-2101.7.1-build.181.jar",
+      "filename": "kubejs-neoforge-2101.7.1-build.181.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/AdLods-1.21.1-9.1.0.0-NeoForge-build.0408.jar",
+      "filename": "AdLods-1.21.1-9.1.0.0-NeoForge-build.0408.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/libraryferret-neoforge-1.21.1-4.0.0.jar",
+      "filename": "libraryferret-neoforge-1.21.1-4.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lithium-neoforge-0.15.0+mc1.21.1.jar",
+      "filename": "lithium-neoforge-0.15.0+mc1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lithostitched-neoforge-1.21.1-1.4.11.jar",
+      "filename": "lithostitched-neoforge-1.21.1-1.4.11.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/livelierpokemon-neoforge-2.0.4+1.21.1.jar",
+      "filename": "livelierpokemon-neoforge-2.0.4+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lootintegrations_ctov-1.4.jar",
+      "filename": "lootintegrations_ctov-1.4.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lootintegrations_dungeoncrawl-1.1.jar",
+      "filename": "lootintegrations_dungeoncrawl-1.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lootintegrations_dnt-2.4.jar",
+      "filename": "lootintegrations_dnt-2.4.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lootintegration_townsandtowers-1.2.jar",
+      "filename": "lootintegration_townsandtowers-1.2.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lootintegration_wda-1.6.jar",
+      "filename": "lootintegration_wda-1.6.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lootintegrations-1.21.1-4.7.jar",
+      "filename": "lootintegrations-1.21.1-4.7.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lootjs-neoforge-1.21.1-3.4.3.jar",
+      "filename": "lootjs-neoforge-1.21.1-3.4.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lootr-neoforge-1.21-1.10.35.91.jar",
+      "filename": "lootr-neoforge-1.21-1.10.35.91.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/man_of_many_planes-0.2.1+1.21.1-neoforge.jar",
+      "filename": "man_of_many_planes-0.2.1+1.21.1-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/mechanicals-1.21.1-1.0.12.jar",
+      "filename": "mechanicals-1.21.1-1.0.12.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/mes-1.3.5-1.21.jar",
+      "filename": "mes-1.3.5-1.21.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/mmv-1.1.2-1.21.jar",
+      "filename": "mmv-1.1.2-1.21.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/mns-1.0.8-1.21.jar",
+      "filename": "mns-1.0.8-1.21.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/modernfix-neoforge-5.24.3+mc1.21.1.jar",
+      "filename": "modernfix-neoforge-5.24.3+mc1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/mvs-4.3.0-1.21.jar",
+      "filename": "mvs-4.3.0-1.21.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/moonlight-1.21-2.20.7-neoforge.jar",
+      "filename": "moonlight-1.21-2.20.7-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/more-cobblemon-move-anims-1.3.af.jar",
+      "filename": "more-cobblemon-move-anims-1.3.af.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/moredelight-25.07.28a-1.21-neoforge.jar",
+      "filename": "moredelight-25.07.28a-1.21-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/more-radical-trainers-1.8.jar",
+      "filename": "more-radical-trainers-1.8.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/mss-1.3.5-1.21.jar",
+      "filename": "mss-1.3.5-1.21.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+      "filename": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/CreateNumismatics-1.0.18+neoforge-mc1.21.1.jar",
+      "filename": "CreateNumismatics-1.0.18+neoforge-mc1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/oceansdelight-neoforge-1.0.3-1.21.jar",
+      "filename": "oceansdelight-neoforge-1.0.3-1.21.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/OctoLib-NEOFORGE-0.6.0.3+1.21.jar",
+      "filename": "OctoLib-NEOFORGE-0.6.0.3+1.21.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.4.6.jar",
+      "filename": "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar",
+      "filename": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/overbalanced-1.jar",
+      "filename": "overbalanced-1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "filename": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Patchouli-1.21.1-92-NEOFORGE.jar",
+      "filename": "Patchouli-1.21.1-92-NEOFORGE.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "filename": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/pet-your-cobblemon-1.3.3.jar",
+      "filename": "pet-your-cobblemon-1.3.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/platform-neoforge-1.21.1-1.2.10.2.jar",
+      "filename": "platform-neoforge-1.21.1-1.2.10.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/ponderjs-neoforge-1.21.1-2.1.3.jar",
+      "filename": "ponderjs-neoforge-1.21.1-2.1.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/prickle-neoforge-1.21.1-21.1.8.jar",
+      "filename": "prickle-neoforge-1.21.1-21.1.8.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/PuzzlesLib-v21.1.38-1.21.1-NeoForge.jar",
+      "filename": "PuzzlesLib-v21.1.38-1.21.1-NeoForge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/rarcompat-1.21-0.9.7.jar",
+      "filename": "rarcompat-1.21-0.9.7.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/rctcapturecap-neoforge-1.21.1-1.1.0.jar",
+      "filename": "rctcapturecap-neoforge-1.21.1-1.1.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/rctapi-neoforge-1.21.1-0.13.7-beta.jar",
+      "filename": "rctapi-neoforge-1.21.1-0.13.7-beta.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/rctmod-neoforge-1.21.1-0.16.6-beta.jar",
+      "filename": "rctmod-neoforge-1.21.1-0.16.6-beta.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
+      "filename": "rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/rechiseled-1.1.6a-neoforge-mc1.21.jar",
+      "filename": "rechiseled-1.1.6a-neoforge-mc1.21.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/relics-1.21.1-0.10.7.6.jar",
+      "filename": "relics-1.21.1-0.10.7.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/reliquary-1.21.1-2.0.57.1285.jar",
+      "filename": "reliquary-1.21.1-2.0.57.1285.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/rhino-2101.2.7-build.77.jar",
+      "filename": "rhino-2101.2.7-build.77.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/SimpleTMs-neoforge-2.1.2.jar",
+      "filename": "SimpleTMs-neoforge-2.1.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/SkyVillages-1.0.6-1.21.x-neoforge-release.jar",
+      "filename": "SkyVillages-1.0.6-1.21.x-neoforge-release.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/sliceanddice-neoforge-4.0.1.jar",
+      "filename": "sliceanddice-neoforge-4.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/sophisticatedbackpacks-1.21.1-3.24.19.1301.jar",
+      "filename": "sophisticatedbackpacks-1.21.1-3.24.19.1301.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/sophisticated_emerald_upgrade-1.0.3-NeoForge-1.21.1.jar",
+      "filename": "sophisticated_emerald_upgrade-1.0.3-NeoForge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/sophisticatedcore-1.21.1-1.3.63.1086.jar",
+      "filename": "sophisticatedcore-1.21.1-1.3.63.1086.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/sophisticatedstoragecreateintegration-1.21.1-0.1.11.37.jar",
+      "filename": "sophisticatedstoragecreateintegration-1.21.1-0.1.11.37.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/sophisticatedstorageinmotion-1.21.1-0.10.18.119.jar",
+      "filename": "sophisticatedstorageinmotion-1.21.1-0.10.18.119.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/sophisticatedstorage-1.21.1-1.4.47.1223.jar",
+      "filename": "sophisticatedstorage-1.21.1-1.4.47.1223.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/sparsestructures-neoforge-1.21.1-3.0.jar",
+      "filename": "sparsestructures-neoforge-1.21.1-3.0.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/strawgolem-neoforge-1.21-2.0.0.jar",
+      "filename": "strawgolem-neoforge-1.21-2.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Structory_1.21.x_v1.3.11.jar",
+      "filename": "Structory_1.21.x_v1.3.11.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/StructureCompass-1.21.1-4.0.1.jar",
+      "filename": "StructureCompass-1.21.1-4.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/structureessentials-1.21.1-4.8.jar",
+      "filename": "structureessentials-1.21.1-4.8.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/structure_layout_optimizer-neoforge-1.0.10.jar",
+      "filename": "structure_layout_optimizer-neoforge-1.0.10.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/structureful-0.3.0.jar",
+      "filename": "structureful-0.3.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
+      "filename": "supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/supplementaries-1.21-3.4.4-neoforge.jar",
+      "filename": "supplementaries-1.21-3.4.4-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/terrablenderfix-neoforge-1.21.1-0.0.1.jar",
+      "filename": "terrablenderfix-neoforge-1.21.1-0.0.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/aethersdelight-0.1.4.1-1.21.1.jar",
+      "filename": "aethersdelight-0.1.4.1-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/titanium-1.21-4.0.40.jar",
+      "filename": "titanium-1.21-4.0.40.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/toms_storage-1.21-2.2.2.jar",
+      "filename": "toms_storage-1.21-2.2.2.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/Tomtaru's Cobblemon & Farmer's Delight Tweaks - 1.21.1 - R.1.3.jar",
+      "filename": "Tomtaru's Cobblemon & Farmer's Delight Tweaks - 1.21.1 - R.1.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/torchmastercobblemoncompat-1.6-neoforge-1.0.0.jar",
+      "filename": "torchmastercobblemoncompat-1.6-neoforge-1.0.0.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/torchmaster-neoforge-1.21.1-21.1.5-beta.jar",
+      "filename": "torchmaster-neoforge-1.21.1-21.1.5-beta.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/t_and_t-neoforge-fabric-1.13.2.jar",
+      "filename": "t_and_t-neoforge-fabric-1.13.2.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/trashslot-neoforge-1.21.1-21.1.4.jar",
+      "filename": "trashslot-neoforge-1.21.1-21.1.4.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/trek-B0.5.1.jar",
+      "filename": "trek-B0.5.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/UndergroundBunkers-1.0.4-1.21.x-neoforge.jar",
+      "filename": "UndergroundBunkers-1.0.4-1.21.x-neoforge.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/underground_village-1.5.5.jar",
+      "filename": "underground_village-1.5.5.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/UndergroundVillages-neoforge-1.21.1-4.0.3.jar",
+      "filename": "UndergroundVillages-neoforge-1.21.1-4.0.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/underwater_village-1.0.2-neoforge-1.21.1.jar",
+      "filename": "underwater_village-1.0.2-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/uppers-2.0.1.jar",
+      "filename": "uppers-2.0.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/vanillabackport-neoforge-1.21.1-1.1.4.3.jar",
+      "filename": "vanillabackport-neoforge-1.21.1-1.1.4.3.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/villagespawnpoint-1.21.1-4.6.jar",
+      "filename": "villagespawnpoint-1.21.1-4.6.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/villagesandpillages-neoforge-mc1.21.1-1.0.3.jar",
+      "filename": "villagesandpillages-neoforge-mc1.21.1-1.0.3.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/waystones-neoforge-1.21.1-21.1.22.jar",
+      "filename": "waystones-neoforge-1.21.1-21.1.22.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/whisperers_jungle_temple-2.0.0-neoforge-1.21.1.jar",
+      "filename": "whisperers_jungle_temple-2.0.0-neoforge-1.21.1.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/yet_another_config_lib_v3-3.7.1+1.21.1-neoforge.jar",
+      "filename": "yet_another_config_lib_v3-3.7.1+1.21.1-neoforge.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/lootintegrations_yungs-1.4.jar",
+      "filename": "lootintegrations_yungs-1.4.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "filename": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "filename": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "filename": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "filename": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "filename": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "filename": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    },
+    {
+      "filePath": "../mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "filename": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "isDisabled": false
+    }
+  ]
 }

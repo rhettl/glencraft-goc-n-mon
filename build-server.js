@@ -1,7 +1,12 @@
 import fs                      from 'fs';
+import { join }                from 'path';
 import { parsePlInstanceData } from './lib/common.js';
 import { compileSparseStructures } from './lib/compareStructures.js';
 import { ServerBuilder }       from './lib/server-builder.js';
+
+import { fileURLToPath } from 'url';
+
+const __dirname = fileURLToPath(import.meta.url);
 
 const modPackData = JSON.parse(fs.readFileSync('./modpack.json', 'utf-8'));
 const plInstance = parsePlInstanceData('../../mmc-pack.json');
@@ -25,6 +30,7 @@ await pack.scanModsDirectory('../mods', {
   ]
 });
 await pack.buildIndexJson();
+await pack.updateModpackJson(join(__dirname, '../modpack.json'));
 await pack.buildIcon();
 await pack.copyMods();
 await pack.downloadServerJars();
