@@ -438,15 +438,6 @@
       "isDisabled": false
     },
     {
-      "filePath": "../mods/cobeffectiveness-neoforge-0.2.jar",
-      "filename": "cobeffectiveness-neoforge-0.2.jar",
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "isDisabled": false
-    },
-    {
       "filePath": "../mods/fightorflight-neoforge-0.8.3.jar",
       "filename": "fightorflight-neoforge-0.8.3.jar",
       "env": {
@@ -1853,15 +1844,6 @@
     {
       "filePath": "../mods/findme-3.3.3-neoforge.jar",
       "filename": "findme-3.3.3-neoforge.jar",
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "isDisabled": false
-    },
-    {
-      "filePath": "../mods/flerovium-neoforge-1.21.1-1.0.11-all.jar",
-      "filename": "flerovium-neoforge-1.21.1-1.0.11-all.jar",
       "env": {
         "client": "required",
         "server": "required"

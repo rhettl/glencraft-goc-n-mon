@@ -33,6 +33,8 @@ await pack.scanModsDirectory('../mods', {
   ignoreMods: [
     /MoreCobblemonTweaks-neoforge-.*\.jar/i,
     /voicechat-neoforge.*\.jar/i,
+    /flerovium-neoforge.*\.jar/i,
+    /cobeffectiveness-neoforge.*\.jar/i,
   ]
 });
 await pack.buildIndexJson();
