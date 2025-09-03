@@ -1,5 +1,6 @@
-# GlenCraft Cog & Mon
-## Minecraft Pack Builder and Server
+# Mr. Packer
+## GlenCraft Cog & Mon
+### Minecraft Pack Builder and Server
 
 This repo has two main components:
 1. **Minecraft Pack Builder**: A tool to create and update my GlenCraft Minecraft Modpack.
