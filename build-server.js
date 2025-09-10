@@ -32,7 +32,7 @@ await pack.scanModsDirectory('../mods', {
   ],
   ignoreMods: [
     /MoreCobblemonTweaks-neoforge-.*\.jar/i,
-    /voicechat-neoforge.*\.jar/i,
+    // /voicechat-neoforge.*\.jar/i,
     /flerovium-neoforge.*\.jar/i,
     /cobeffectiveness-neoforge.*\.jar/i,
   ]
@@ -45,6 +45,7 @@ await pack.downloadServerJars();
 
 await pack.addDirectory('../configureddefaults', 'configureddefaults');
 await pack.addDirectory('../datapacks', 'datapacks');
+await pack.addDirectory('../resourcepacks', 'resourcepacks');
 await pack.addDirectory('../kubejs', 'kubejs');
 await pack.addFile('../default-server.properties', 'default-server.properties');
 

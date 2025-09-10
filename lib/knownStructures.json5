@@ -1,6 +1,6 @@
 [
   // Dimensions
-  // Overworld: 428
+  // Overworld: 444
   { "structure": "adorabuild_structures:epic_overworld_structures", "factor": 1, "customSpread": false, "dimension": "overworld" },
   { "structure": "adorabuild_structures:floating_structures", "factor": 1, "customSpread": false, "dimension": "overworld" },
   { "structure": "adorabuild_structures:ocean_structures", "factor": 1, "customSpread": false, "dimension": "overworld" },
@@ -137,6 +137,26 @@
   { "structure": "createnewbeg:abandoned_smithy", "factor": 1, "customSpread": false, "dimension": "overworld" },
   { "structure": "createnewbeg:lighthouse", "factor": 1, "customSpread": false, "dimension": "overworld" },
   { "structure": "dungeoncrawl:dungeons", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:aethers_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:afterdark_farms_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:aquacultures_beach_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:aquacultures_cod_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:aquacultures_common_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:cacaos_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:cooks_moss_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:cooks_nether_1_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:cooks_nether_2_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:cooks_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:deeper_farms_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:fishs_stew_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:flesh_farms_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:honey_cake_farms_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:ratatouilles_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:shepherd_farms_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:squids_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:sushus_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:undergardens_sea_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
+  { "structure": "farmers_structures:undergardens_with_all", "factor": 1, "customSpread": false, "dimension": "overworld" },
   { "structure": "hopo:piglin_ruin", "factor": 0.5, "customSpread": true, "dimension": "overworld" },
   { "structure": "hopo:portal_deepslate", "factor": 0.5, "customSpread": true, "dimension": "overworld" },
   { "structure": "hopo:portal_dripstone", "factor": 0.5, "customSpread": true, "dimension": "overworld" },
@@ -180,11 +200,6 @@
   { "structure": "kattersstructures:underground", "factor": 1, "customSpread": true, "dimension": "overworld" },
   { "structure": "kattersstructures:villagers", "factor": 1, "customSpread": true, "dimension": "overworld" },
   { "structure": "kattersstructures:villages", "factor": 1, "customSpread": true, "dimension": "overworld" },
-  { "structure": "legends_untold:mew_ruins", "factor": 1, "customSpread": false, "dimension": "overworld" },
-  { "structure": "legends_untold:psychic_den", "factor": 1, "customSpread": false, "dimension": "overworld" },
-  { "structure": "legends_untold:sky_pillar", "factor": 1, "customSpread": false, "dimension": "overworld" },
-  { "structure": "legends_untold:water_den", "factor": 1, "customSpread": false, "dimension": "overworld" },
-  { "structure": "legends_untold:xerneas_tree", "factor": 1, "customSpread": false, "dimension": "overworld" },
   { "structure": "mega_showdown:archaeological_site", "factor": 1, "customSpread": false, "dimension": "overworld" },
   { "structure": "mega_showdown:mega_site", "factor": 1, "customSpread": false, "dimension": "overworld" },
   { "structure": "mega_showdown:megaroid", "factor": 1, "customSpread": false, "dimension": "overworld" },
@@ -435,6 +450,7 @@
   { "structure": "adorabuild_structures:nether_structures", "factor": 0.75, "customSpread": true, "dimension": "the_nether" },
   { "structure": "betterdungeons:small_nether_dungeons", "factor": 1, "customSpread": true, "dimension": "the_nether" },
   { "structure": "betterfortresses:fortress", "factor": 1, "customSpread": true, "dimension": "the_nether" },
+  { "structure": "evenbetternether:nether_dungeon", "factor": 1, "customSpread": true, "dimension": "the_nether" },
   { "structure": "minecraft:nether_complexes", "factor": 1, "customSpread": true, "dimension": "the_nether" },
   { "structure": "minecraft:nether_fossils", "factor": 1, "customSpread": true, "dimension": "the_nether" },
   { "structure": "mns:circle_blackstone", "factor": 1, "customSpread": true, "dimension": "the_nether" },
@@ -482,12 +498,14 @@
   { "structure": "trek:nether/very_common", "factor": 1, "customSpread": true, "dimension": "the_nether" },
   { "structure": "trek:nether/very_rare", "factor": 1, "customSpread": true, "dimension": "the_nether" },
 
-  // End: 39
+  // End: 51
   { "structure": "adorabuild_structures:end_structures", "factor": 1, "customSpread": true, "dimension": "the_end" },
   { "structure": "create_ltab:big_end_lab", "factor": 1, "customSpread": true, "dimension": "the_end" },
   { "structure": "create_ltab:end_lab", "factor": 1, "customSpread": true, "dimension": "the_end" },
   { "structure": "end_villager_trader:end_trader_ship", "factor": 1, "customSpread": true, "dimension": "the_end" },
+  { "structure": "endersdelight:end_house", "factor": 1, "customSpread": true, "dimension": "the_end" },
   { "structure": "endervillages:village_end", "factor": 1, "customSpread": true, "dimension": "the_end" },
+  { "structure": "extradelight:structure_set", "factor": 1, "customSpread": true, "dimension": "the_end" },
   { "structure": "mes:astral_hideaway", "factor": 1, "customSpread": true, "dimension": "the_end" },
   { "structure": "mes:astral_meteorite", "factor": 1, "customSpread": true, "dimension": "the_end" },
   { "structure": "mes:ender_spire", "factor": 1, "customSpread": true, "dimension": "the_end" },
@@ -533,7 +551,7 @@
   { "structure": "unusualend:warped_flying_end_ship", "factor": 1, "customSpread": true, "dimension": "the_end" },
   { "structure": "unusualend:warped_station", "factor": 1, "customSpread": true, "dimension": "the_end" },
 
-  // Aether: 8
+  // Aether: 9
   { "structure": "aether_villages:aether_villages_structures", "factor": 1, "customSpread": true, "dimension": "aether" },
   { "structure": "aether:bronze_dungeon", "factor": 1, "customSpread": true, "dimension": "aether" },
   { "structure": "aether:large_aercloud", "factor": 1, "customSpread": true, "dimension": "aether" },
@@ -549,5 +567,7 @@
 
   // Deep Blue: 1
   { "structure": "kattersstructures:deep_blue_labs", "factor": 0.5, "customSpread": true, "dimension": "deep_blue" },
+
+  // New Structures: 1
 
 ]
