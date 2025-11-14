@@ -1,0 +1,25 @@
+{
+  "name": "glencraft-reborn",
+  "version": "1.0.0-alpha.1",
+  "description": "Build scripts for GlenCraft Reborn modpack",
+  "main": "build-modpack.js",
+  "type": "module",
+  "scripts": {
+    "build": "node build-modpack.js",
+    "build:clean": "node build-modpack.js --clean",
+    "build:fast": "node build-modpack.js --skip-validation",
+    "list-mods": "node build-modpack.js --list-mods",
+    "validate": "node build-modpack.js --validate-only",
+    "dev": "node build-modpack.js --clean"
+  },
+  "keywords": ["minecraft", "modpack", "cobblemon", "create", "modrinth"],
+  "author": "GlenCraft Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "private": true
+}

@@ -1,0 +1,25 @@
+# Build outputs
+dist/
+releases/
+node_modules/
+
+# File cache
+.file-cache/
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Keep builder directory for reference
+# _builder/

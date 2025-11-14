@@ -1,0 +1,2317 @@
+{
+  "name": "GlenCraft: Cog & Mon",
+  "description": "A comprehensive Minecraft modpack combining Cobblemon (Pokémon) gameplay with Create mod automation and world exploration.",
+  "version": "1.0.0",
+  "gameVersion": "1.21.1",
+  "loaderType": "neoforge",
+  "loaderVersion": "21.1.215",
+  "author": "RhettL",
+  "mods": [
+    {
+      "filename": "appleskin-neoforge-mc1.21-3.0.7.jar",
+      "name": "AppleSkin",
+      "version": "Unknown",
+      "modid": "appleskin",
+      "side": "both",
+      "url": null,
+      "sha512": "03a94fe4143250b8e80abe97770918ba0af1265110bb73c25444674f9cdf86164464332a913cbac29af82d8ed02dce6ef19bbb62fced92620817a7ec1e761b71",
+      "size": 74100,
+      "lastModified": "2025-11-13T04:36:02.926Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "EsAfCjCV",
+        "version": "kztxpjAA"
+      }
+    },
+    {
+      "filename": "architectury-13.0.8-neoforge.jar",
+      "name": "Architectury API",
+      "version": "Unknown",
+      "modid": "architectury_api",
+      "side": "both",
+      "url": null,
+      "sha512": "65e3664953385d880320dd6bb818bcb96d361c07c53e2a7f65e64c6a47720ee26b233224ae9cad465ef0b2bbaefdaf30fb0175a983cecd91de058817d6fcf57e",
+      "size": 584004,
+      "lastModified": "2025-11-13T04:25:15.952Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "lhGA9TYQ",
+        "version": "ZxYGwlk0"
+      }
+    },
+    {
+      "filename": "ash_api-neoforge-21.1.1.jar",
+      "name": "Ash API",
+      "version": "Unknown",
+      "modid": "ash_api",
+      "side": "both",
+      "url": null,
+      "sha512": "6db5c15b3c0949c1eed65fc1d41ae5eadcbe23e802c6ed5d96d70a3de41c6c10c973a53389ce09c142b1a369904742ba18c88b778b8c18358c27f1ec3e4b3c94",
+      "size": 30484,
+      "lastModified": "2025-11-13T04:25:16.666Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "Q8xUICr6",
+        "version": "3VLPjt5Q"
+      }
+    },
+    {
+      "filename": "athena-neoforge-1.21-4.0.2.jar",
+      "name": "Athena",
+      "version": "Unknown",
+      "modid": "athena",
+      "side": "client",
+      "url": null,
+      "sha512": "c1756365b28d4c6c62416f0332a0e2d591142ae9ea5e5c1e0ae640eb9ae172565c08ef6c11e29c062f4db78a3dd187dba6837fbca1e0f38e12a2b4e48ec5ed88",
+      "size": 92698,
+      "lastModified": "2025-11-13T07:04:59.813Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "b1ZV3DIJ",
+        "version": "SVhR1m5N"
+      }
+    },
+    {
+      "filename": "baguettelib-1.21.1-NeoForge-1.1.2.jar",
+      "name": "BaguetteLib",
+      "version": "Unknown",
+      "modid": "baguettelib",
+      "side": "server",
+      "url": null,
+      "sha512": "4d982db3147c458a9ffa49345da64487a61fbffd45dff5236be09fd96cc95cef380d996cd1e95839983e8b3756f711b45d088edaca82d58ea5bfa62b52797946",
+      "size": 65068,
+      "lastModified": "2025-11-14T00:05:36.973Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "OfKzpbRU",
+        "version": "qlBZoBHM"
+      }
+    },
+    {
+      "filename": "balm-neoforge-1.21.1-21.0.54.jar",
+      "name": "Balm",
+      "version": "Unknown",
+      "modid": "balm",
+      "side": "both",
+      "url": null,
+      "sha512": "c07f28847484d877b0ee5437ab3207265483f767bac8f39cbd25dbb3e34b53e056bd054b8a622970c17a1bf24083535ab93e09a09d754816e6d82b51e459fd41",
+      "size": 581424,
+      "lastModified": "2025-11-13T04:25:16.695Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "MBAkmtvl",
+        "version": "Yiybaaus"
+      }
+    },
+    {
+      "filename": "bellsandwhistles-0.4.7-1.21.1.jar",
+      "name": "Create: Bells & Whistles",
+      "version": "Unknown",
+      "modid": "create__bells___whistles",
+      "side": "both",
+      "url": null,
+      "sha512": "482ee096477b89ed8ec5ce008a4a8ac0ae853079a4f5ce16ad0e0dd9b2eb12b3326f17acaaca1eae0bc51ad238f4e51c8d5b93ded71fe7240717ac8600041c59",
+      "size": 193619,
+      "lastModified": "2025-11-13T07:04:59.260Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "gJ5afkVv",
+        "version": "w0mifib8"
+      }
+    },
+    {
+      "filename": "BetterThirdPerson-neoforge-1.9.0.jar",
+      "name": "Better Third Person",
+      "version": "Unknown",
+      "modid": "better_third_person",
+      "side": "client",
+      "url": null,
+      "sha512": "053acb813940aac69578810558056942966f2f0a24006a3a5de545c82888f8190b3bdc27a2401d0f70200dc4c927c0f84a45bf17821fb94fb9b886d633644619",
+      "size": 60941,
+      "lastModified": "2025-11-13T04:36:02.925Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "G1s2WpNo",
+        "version": "aG5y4JUQ"
+      }
+    },
+    {
+      "filename": "BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar",
+      "name": "Biomes O' Plenty",
+      "version": "Unknown",
+      "modid": "biomes_o__plenty",
+      "side": "both",
+      "url": null,
+      "sha512": "a77aae24187d0b8d5c6226afa1abb8fa802261cb553505f7d40fc0baed0629ccf2092bc8eb4af6eea680fd1555896967be181bba80b1b60d3ad32a6d490b501e",
+      "size": 22338171,
+      "lastModified": "2025-11-13T04:36:03.356Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "HXF82T3G",
+        "version": "3RGurDCA"
+      }
+    },
+    {
+      "filename": "bobby-5.2.4+mc1.21.jar",
+      "name": "Bobby",
+      "version": "Unknown",
+      "modid": "bobby",
+      "side": "client",
+      "url": null,
+      "sha512": "414436bf14ee9ad76ff2f849ffb5a2acda122a7588231d14dfbd27253924d08c22368c73ebd4b0048209d14682579be58743993265daaface4fdec6ec8e6e7ee",
+      "size": 863192,
+      "lastModified": "2025-11-14T00:05:36.813Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "M08ruV16",
+        "version": "oeSOphtG"
+      }
+    },
+    {
+      "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.87.jar",
+      "name": "Concurrent Chunk Management Engine (NeoForge)",
+      "version": "Unknown",
+      "modid": "concurrent_chunk_management_engine__neoforge_",
+      "side": "both",
+      "url": null,
+      "sha512": "954b4e07f6fe5c1bac8154757da347565cc40e1646939c55eba9dcd3501a4f75178afd1a41947fe5abda033c111344d5aac5b1d2a2237bbe687de55de77633c2",
+      "size": 4508193,
+      "lastModified": "2025-11-13T06:54:19.554Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "COlSi5iR",
+        "version": "cOWJSXKK"
+      }
+    },
+    {
+      "filename": "carryon-neoforge-1.21.1-2.2.2.11.jar",
+      "name": "Carry On",
+      "version": "Unknown",
+      "modid": "carry_on",
+      "side": "both",
+      "url": null,
+      "sha512": "0a31ef680544d85c5842a54a2c61f4ead14776de69a97f36438db4076ee364cf852045d7bcd22efc269591d63fe4e2ee86bb73def795262617641b0060cb4f31",
+      "size": 347647,
+      "lastModified": "2025-11-13T04:36:03.277Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "joEfVgkn",
+        "version": "79dpvD0M"
+      }
+    },
+    {
+      "filename": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "name": "Chipped",
+      "version": "Unknown",
+      "modid": "chipped",
+      "side": "both",
+      "url": null,
+      "sha512": "f3083b01267e7c674c4b42f45a317c93ee7723443cba2051fe5bc593638b533b0fe90699e2101661c934dff458eab693cce4e188533bfe977778c249563a2fa5",
+      "size": 15020578,
+      "lastModified": "2025-11-13T07:04:59.735Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "BAscRYKm",
+        "version": "eqVowbGc"
+      }
+    },
+    {
+      "filename": "Chunky-NeoForge-1.4.23.jar",
+      "name": "Chunky",
+      "version": "Unknown",
+      "modid": "chunky",
+      "side": "both",
+      "url": null,
+      "sha512": "2db769dd723f243a21e1881e7c9f825e9c193da6f2bed454b70cb6fa9e51c57f63fdcf017c0657bbd26f7bba30815413e27c74d3c7be0783390a96ee9baa4bf7",
+      "size": 340572,
+      "lastModified": "2025-11-13T07:04:58.904Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "fALzjamp",
+        "version": "LuFhm4eU"
+      }
+    },
+    {
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "name": "Cloth Config API",
+      "version": "Unknown",
+      "modid": "cloth_config_api",
+      "side": "both",
+      "url": null,
+      "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d",
+      "size": 1163890,
+      "lastModified": "2025-11-13T04:25:16.013Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "9s6osm5g",
+        "version": "izKINKFg"
+      }
+    },
+    {
+      "filename": "cobbleloots-neoforge-2.0.10.jar",
+      "name": "Cobbleloots: Loot Balls and More!",
+      "version": "Unknown",
+      "modid": "cobbleloots__loot_balls_and_more_",
+      "side": "both",
+      "url": null,
+      "sha512": "38c924e2a42d5712e7f108eea482e7957bbe2b3490f99423d8f9c101585b61643618e00e39862b5947c40abd07f98c9b5b6d9029fd061b628709f9887c46ed47",
+      "size": 160352,
+      "lastModified": "2025-11-13T05:21:23.925Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "kcudYghD",
+        "version": "FXYwUuXD"
+      }
+    },
+    {
+      "filename": "cobblemon-additions-4.0.1.jar",
+      "name": "Cobblemon additions",
+      "version": "Unknown",
+      "modid": "cobblemon_additions",
+      "side": "both",
+      "url": null,
+      "sha512": "6091c973223eb7fddcf8a328ee197b9c55ea68432f24c17c40f9c1418a3882d2f26b3de5a05864acf9e45498f9d475a40cc1a2b2e6ce4042a71dc6f2750ee61d",
+      "size": 1155211,
+      "lastModified": "2025-11-13T05:25:47.917Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "W2pr9jyL",
+        "version": "3zlnEowb"
+      }
+    },
+    {
+      "filename": "capturexp-neoforge-1.6.1-1.2.1.jar",
+      "name": "Cobblemon Capture XP",
+      "version": "Unknown",
+      "modid": "cobblemon_capture_xp",
+      "side": "server",
+      "url": null,
+      "sha512": "4bed5311b447eaecabb5083e99123f158e62edf00acb9f29e8fb7c61b63c9b586f360e79e22b2c4aee74c4734a26a9307c371c5d04dc97ffa6124eb6ccba0d02",
+      "size": 25230,
+      "lastModified": "2025-11-13T05:21:23.689Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "LBl4Qguc",
+        "version": "Lh0clnjO"
+      }
+    },
+    {
+      "filename": "cobeffectiveness-neoforge-0.2.jar",
+      "name": "Cobblemon Effectiveness",
+      "version": "Unknown",
+      "modid": "cobblemon_effectiveness",
+      "side": "client",
+      "url": null,
+      "sha512": "58bc819a5c9765c1b2ec3db122599235e1f782a9f963f9688bcf46949d71de82e32aecd35dab4372e9cec49577e02bb70478436fa6006ac11552375e254e76da",
+      "size": 36576,
+      "lastModified": "2025-11-13T05:21:23.968Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "mCT9ubLg",
+        "version": "tjtXNIjN"
+      }
+    },
+    {
+      "filename": "fightorflight-neoforge-0.8.4.jar",
+      "name": "Cobblemon Fight or Flight Reborn",
+      "version": "Unknown",
+      "modid": "cobblemon_fight_or_flight_reborn",
+      "side": "both",
+      "url": null,
+      "sha512": "a405d7345bd70237735bee3247b0c217d3c72e28d364e9f4161b590379e9fc23a4510d43c4d1bdcbb6787a1b42ec910bab103a5b3ceb3b445fe73a90a3315ecd",
+      "size": 1323070,
+      "lastModified": "2025-11-13T05:21:23.776Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "cTdIg5HZ",
+        "version": "imItm1o4"
+      }
+    },
+    {
+      "filename": "cobblemonintegrations-neoforge-1.21.1-1.1.3.jar",
+      "name": "Cobblemon Integrations",
+      "version": "Unknown",
+      "modid": "cobblemon_integrations",
+      "side": "both",
+      "url": null,
+      "sha512": "74a30fdd644638d2fc95bccb8b4c20cb6e5dd33309ccca8c155e30e8e77e8bf3670f6a79a86c4f9404b04bc3ce7b78428cf69a3fb15ba46e4a71a4ddd2f1f471",
+      "size": 337179,
+      "lastModified": "2025-11-13T05:21:23.845Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "NPCfuUI4",
+        "version": "slzdgomG"
+      }
+    },
+    {
+      "filename": "CobblemonMoveInspector-neoforge-1.2.0.jar",
+      "name": "Cobblemon Move Inspector",
+      "version": "Unknown",
+      "modid": "cobblemon_move_inspector",
+      "side": "client",
+      "url": null,
+      "sha512": "fd2d629216d69c901412856bf8fccb562e2e7a380f451a88862ef5bda9aebb4b85a080bebd6b32a166fcb53ef91f614d7e7739f258ad81c784c1e804ad26fab2",
+      "size": 25905,
+      "lastModified": "2025-11-13T05:21:23.875Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "MqcGBDhG",
+        "version": "NWXNcQfr"
+      }
+    },
+    {
+      "filename": "cobblenav-neoforge-2.2.4.jar",
+      "name": "Cobblemon Pokenav",
+      "version": "Unknown",
+      "modid": "cobblemon_pokenav",
+      "side": "both",
+      "url": null,
+      "sha512": "f54f88a2d2c19eb88d7e1139285194121784d8a84076fe4d0af36c2f05cbbaf09afdac0074a4fbaf099209611c7dd9864c3e96d031d54c89bb5abc32108fddba",
+      "size": 791498,
+      "lastModified": "2025-11-13T05:21:23.751Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "bI8Nt3uA",
+        "version": "f8st9q6J"
+      }
+    },
+    {
+      "filename": "cobbleride-neoforge-0.3.3+1.21.1.jar",
+      "name": "Cobblemon: Ride On!",
+      "version": "Unknown",
+      "modid": "cobblemon__ride_on_",
+      "side": "both",
+      "url": null,
+      "sha512": "836147bbb31e212f55c28c14454bfe46856a7b021a819838970977662b19f8164fcc65e742fba108655fcbf17476c7f469519787e3cf33cb64bcb84cae5f615e",
+      "size": 389602,
+      "lastModified": "2025-11-13T05:21:23.967Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "vXREhDPP",
+        "version": "YjPbxv31"
+      }
+    },
+    {
+      "filename": "cobblemon-spawn-notification-1.6-neoforge-1.3.8.jar",
+      "name": "Cobblemon Spawn Notification",
+      "version": "Unknown",
+      "modid": "cobblemon_spawn_notification",
+      "side": "both",
+      "url": null,
+      "sha512": "b6ba5ddd8de5631a71401802c0e689bd04149697aeacb62381a38130b1e8b4a340b9374f00185da435db2f6ebf4e2e300c7ff49f3e481f0d46ecb6932d577bfb",
+      "size": 98532,
+      "lastModified": "2025-11-13T05:21:23.705Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "LPuJjiQz",
+        "version": "sHjtH8Cz"
+      }
+    },
+    {
+      "filename": "timcore-neoforge-1.6.1-1.18.1.jar",
+      "name": "Cobblemon Tim Core",
+      "version": "Unknown",
+      "modid": "cobblemon_tim_core",
+      "side": "server",
+      "url": null,
+      "sha512": "3e2edb24f455af6b3429013a22dda464249db7774ffc15d70fce27c46a41aad025511a43b6fa5cd302e805668ee0d34e36ac5bca2064415db472f6234f41f2b5",
+      "size": 224109,
+      "lastModified": "2025-11-13T05:21:24.178Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "lVP9aUaY",
+        "version": "a5Zo18Mp"
+      }
+    },
+    {
+      "filename": "cobblemon-whiteout-1.6-neoforge-1.2.2.jar",
+      "name": "Cobblemon Whiteout",
+      "version": "Unknown",
+      "modid": "cobblemon_whiteout",
+      "side": "server",
+      "url": null,
+      "sha512": "38493462a4ea0276e0c975057c83472a6667167bb61d8f28962b3bd4a0a4586aeeed0b2c349d62ae4a6053ed1d0b556da51c0b00da431917dcc5147a4c5cc052",
+      "size": 17591,
+      "lastModified": "2025-11-13T05:21:24.139Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "ejHErp1a",
+        "version": "Zv6g33JZ"
+      }
+    },
+    {
+      "filename": "Cobblemon-neoforge-1.6.1+1.21.1.jar",
+      "name": "Cobblemon",
+      "version": "Unknown",
+      "modid": "cobblemon",
+      "side": "both",
+      "url": null,
+      "sha512": "9d10fb7aec60c775ea050002b7f8f4390a5bed823a91e68ec088160ddf024860c7a7fb8aef3069b7619009a04335466702150eac6e1502f1c1051d88cb5b3897",
+      "size": 114089432,
+      "lastModified": "2025-11-13T04:36:04.985Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "MdwFAVRL",
+        "version": "eLcb8xod"
+      }
+    },
+    {
+      "filename": "cobblemore_lib-1.1.1-neoforge-1.21.1.jar",
+      "name": "Cobblemore Lib",
+      "version": "Unknown",
+      "modid": "cobblemore_lib",
+      "side": "both",
+      "url": null,
+      "sha512": "bd025c09358fcf28b8740f032163636c9c5227371550ba08675b78e3c91dc84f46c6e9d75d830938763cc7d612c282d7b6a590486d60a0e81e89bbac7a359ed0",
+      "size": 2094483,
+      "lastModified": "2025-11-13T05:21:23.798Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "VYP2vmDS",
+        "version": "brW9O5xy"
+      }
+    },
+    {
+      "filename": "cobbleworkers-neoforge-1.6.1+1.6.1.jar",
+      "name": "Cobbleworkers",
+      "version": "Unknown",
+      "modid": "cobbleworkers",
+      "side": "server",
+      "url": null,
+      "sha512": "1956ca3ab1ffaa0fec766f261b48f994b5110622b89dd0c857fbcc1fe45ac534218267534ff1ed5a936ca7c8998a2674f6e3e3759e097815113ccd91c8f247e0",
+      "size": 490695,
+      "lastModified": "2025-11-13T05:21:24.185Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "i3XVG2gn",
+        "version": "gjIBDbbp"
+      }
+    },
+    {
+      "filename": "Cobbreeding-neoforge-2.0.3.jar",
+      "name": "Cobbreeding",
+      "version": "Unknown",
+      "modid": "cobbreeding",
+      "side": "both",
+      "url": null,
+      "sha512": "a43cb91c89ae95a126527ce7a8a2b62082c85280f738c57d5918a1324b07f1916f63612d5fa0fd038dc6cd438de97cb6149f36e685142fd1a875eb26bee9561b",
+      "size": 306007,
+      "lastModified": "2025-11-13T05:21:23.975Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "ItmVb4zY",
+        "version": "SvTl10Bw"
+      }
+    },
+    {
+      "filename": "cobgyms-neoforge-3.0.1+1.21.1.jar",
+      "name": "CobGyms - Unofficial Cobblemon Gyms",
+      "version": "Unknown",
+      "modid": "cobgyms___unofficial_cobblemon_gyms",
+      "side": "both",
+      "url": null,
+      "sha512": "6c280b17093ff6b3f5f79aab40a93b0c811d9e9a40e21c666b486afc9f20b51b7cd349eca1c0d0c4b963536d68b3d2867c52023c02e417e31d77e6c6c077409b",
+      "size": 498497,
+      "lastModified": "2025-11-13T05:21:23.746Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "N5SFtmYz",
+        "version": "wSTiDp5M"
+      }
+    },
+    {
+      "filename": "collective-1.21.1-8.13.jar",
+      "name": "Collective",
+      "version": "Unknown",
+      "modid": "collective",
+      "side": "both",
+      "url": null,
+      "sha512": "20ade6d666440659d38ec43202624993f47681a844c7f9e3e66a462e9f88f5d98bdd9a0a26278b1ed94bd4836b3c9cdbcfef73ad8515555f239e84bfea45d938",
+      "size": 946726,
+      "lastModified": "2025-11-14T00:38:13.380Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "e0M1UDsY",
+        "version": "VTg6femX"
+      }
+    },
+    {
+      "filename": "comforts-neoforge-9.0.4+1.21.1.jar",
+      "name": "Comforts",
+      "version": "Unknown",
+      "modid": "comforts",
+      "side": "both",
+      "url": null,
+      "sha512": "c1fcb536f1a311876c09c9b42b43f599115bcd14bbbbc22d56c5ba8ec72f9e32d84661f0f2f1abbfa19d085f3798ce471b3d89e396f1656a2c57edf2ec8cc3dd",
+      "size": 422519,
+      "lastModified": "2025-11-13T04:36:03.251Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "SaCpeal4",
+        "version": "f0FgfKAZ"
+      }
+    },
+    {
+      "filename": "ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+      "name": "Configured Defaults",
+      "version": "Unknown",
+      "modid": "configured_defaults",
+      "side": "both",
+      "url": null,
+      "sha512": "3664a18ab0f55ea63664d057f1cea8653daca7bd05ed629c0f3c7ecc091589846617eef568e90eb76e4eed0c3a79ad0c97b86a125d55cd7153d197f49be59c6c",
+      "size": 43521,
+      "lastModified": "2025-11-13T19:31:34.641Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "SISoSFPP",
+        "version": "HJxTPhTM"
+      }
+    },
+    {
+      "filename": "connector-2.0.0-beta.11+1.21.1-full.jar",
+      "name": "Sinytra Connector",
+      "version": "Unknown",
+      "modid": "sinytra_connector",
+      "side": "both",
+      "url": null,
+      "sha512": "111c3dea3907903696f016efde54c0960cc091d84e5a3ee31414b92e155f687757f0d431f629006808010291abac7099e065f08ff49be19f6743e545f4cd5fc6",
+      "size": 4545403,
+      "lastModified": "2025-11-13T04:25:16.112Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "u58R1TMW",
+        "version": "6MgWNmMr"
+      }
+    },
+    {
+      "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "name": "Controlling",
+      "version": "Unknown",
+      "modid": "controlling",
+      "side": "client",
+      "url": null,
+      "sha512": "bd01b2a38a869ea38e5f2a8fcd601e67ea9b132b9883c6ae752bc35dff6e94f6d47b965e31c1ee5c2f6a1221653549680da779fcb5319d199aec261d221d179e",
+      "size": 77555,
+      "lastModified": "2025-11-14T00:38:12.739Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "xv94TkTM",
+        "version": "FaNppCJJ"
+      }
+    },
+    {
+      "filename": "copycats-3.0.2+mc.1.21.1-neoforge.jar",
+      "name": "Create: Copycats+",
+      "version": "Unknown",
+      "modid": "create__copycats_",
+      "side": "both",
+      "url": null,
+      "sha512": "9032a85fdb1619eaab22947805591ea44c065f7cc20baef95a75331eaee2d8d3ef32b935949215c5cafa625834aed49b728bf70818f4de5bebb4ea9261363105",
+      "size": 1790416,
+      "lastModified": "2025-11-13T04:36:03.608Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "UT2M39wf",
+        "version": "wj2p9GZw"
+      }
+    },
+    {
+      "filename": "corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar",
+      "name": "Corpse x Curios API Compat",
+      "version": "Unknown",
+      "modid": "corpse_x_curios_api_compat",
+      "side": "server",
+      "url": null,
+      "sha512": "a6d994202fd8ed7ce818e3ab83058b36cc5256b88b8d21417ea07d847ac38cf37982340209f9c1a510ef83aa7a53c6199ce782ccb2b6dc925b923bd295533a36",
+      "size": 26059,
+      "lastModified": "2025-11-14T00:05:36.828Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "pJGcKPh1",
+        "version": "MggwWPUK"
+      }
+    },
+    {
+      "filename": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "name": "Corpse",
+      "version": "Unknown",
+      "modid": "corpse",
+      "side": "both",
+      "url": null,
+      "sha512": "473aafd82008c1e041e3b4a5a177507d555c8bc9dd1f121f252f1e81bc0c69c79a91cb64be0df343babcb3d4db76efbaa7aa2adaeaae29337808a368bc290ad0",
+      "size": 253694,
+      "lastModified": "2025-11-14T00:05:36.649Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "WrpuIfhw",
+        "version": "Zwf8nv8y"
+      }
+    },
+    {
+      "filename": "create-central-kitchen-2.2.6.jar",
+      "name": "Create: Central Kitchen",
+      "version": "Unknown",
+      "modid": "create__central_kitchen",
+      "side": "both",
+      "url": null,
+      "sha512": "f6e0ffce362ae76b047e2ce82580436c569f85d3c2ef19d4e97fb4cc7b18309ff54c9f414335c68eed2e4b19d374711320fbc32275834f10eb1ee47250625b50",
+      "size": 342140,
+      "lastModified": "2025-11-13T04:36:03.509Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "btq68HMO",
+        "version": "rYgctWCz"
+      }
+    },
+    {
+      "filename": "createcobblemonballsoverhaul-0.0.3.jar",
+      "name": "Create: Cobblemon Balls Overhaul",
+      "version": "Unknown",
+      "modid": "create__cobblemon_balls_overhaul",
+      "side": "both",
+      "url": null,
+      "sha512": "ca2f59bf568bedd9619a6745febdb065c32671701bf13ff28be5870ca933f9985303c80356e9d1b8dcc91d5d5e1bd00aa777deddefdb78be6df7998bd480f4ce",
+      "size": 335133,
+      "lastModified": "2025-11-13T05:21:24.009Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "aXSKKweV",
+        "version": "rDFwr1gv"
+      }
+    },
+    {
+      "filename": "create_cobblemon_potion-1.0.1.jar",
+      "name": "Create Cobblemon Potion",
+      "version": "Unknown",
+      "modid": "create_cobblemon_potion",
+      "side": "both",
+      "url": null,
+      "sha512": "a925532c0fd2951f7652a659623d7b6c26731612121fc7af221746f91df350c5eb97beffbd2ef375683a109ff8dbd65d7e2a92beee8962d883577f56a565a8d9",
+      "size": 165805,
+      "lastModified": "2025-11-13T05:21:24.181Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "ZcFOjUBG",
+        "version": "N9xadoml"
+      }
+    },
+    {
+      "filename": "create_colored_chain_conveyor-1.0.0.jar",
+      "name": "Create: Colored Chain Conveyor",
+      "version": "Unknown",
+      "modid": "create__colored_chain_conveyor",
+      "side": "both",
+      "url": null,
+      "sha512": "8f7372289889248f673a88db434d313d8382703273338d6e36f184abc9ba550b8b4bcc46d09ff69448ad21837cd463ddfca4558137d32787675e4a8ac23d5fb0",
+      "size": 821137,
+      "lastModified": "2025-11-13T07:04:59.643Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "V3WRAycu",
+        "version": "sKRLjBgN"
+      }
+    },
+    {
+      "filename": "create_connected-1.1.9-mc1.21.1.jar",
+      "name": "Create: Connected",
+      "version": "Unknown",
+      "modid": "create__connected",
+      "side": "both",
+      "url": null,
+      "sha512": "81782aa9121255033a5e7779a82bcd58eb30d0f0e4680d551d942204f0f19241f2d828a895b5f33c86ec7cf2f4b21765bd5edea1788527668b05db319eb88965",
+      "size": 6554218,
+      "lastModified": "2025-11-13T07:04:59.665Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "Vg5TIO6d",
+        "version": "zVNGCKT3"
+      }
+    },
+    {
+      "filename": "create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+      "name": "Create: Curios Jetpack & Backtank [Forge/Fabric/NeoForge]",
+      "version": "Unknown",
+      "modid": "create__curios_jetpack___backtank__forge_fabric_neoforge_",
+      "side": "both",
+      "url": null,
+      "sha512": "5a751cda827b0459b1013f33573384fb51f8386d5c9a43561dd21698903d73e4f7d6ec66b610bac532d383d9b7435c6fe6910943566e1b96ee819fb154e6d419",
+      "size": 421892,
+      "lastModified": "2025-11-13T07:04:59.180Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "BBhCMftF",
+        "version": "JEmLrfe6"
+      }
+    },
+    {
+      "filename": "create-dragons-plus-1.8.4.jar",
+      "name": "Create: Dragons Plus",
+      "version": "Unknown",
+      "modid": "create__dragons_plus",
+      "side": "both",
+      "url": null,
+      "sha512": "bda13ab8e4c5b3217ffd3c1561f3af0e1ce490818438b164742eb7deab7983c9009447670c874116295a75aa5abe9bacd68710ec73b4eeceb6d9866e947a24e3",
+      "size": 641257,
+      "lastModified": "2025-11-13T04:36:03.516Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "dzb1a5WV",
+        "version": "Tc2suamG"
+      }
+    },
+    {
+      "filename": "Create Encased-1.21.1-1.7.2-fix2.jar",
+      "name": "Create Encased",
+      "version": "Unknown",
+      "modid": "create_encased",
+      "side": "both",
+      "url": null,
+      "sha512": "e80d59899f9dd2d4042552862d8d248a9b81991071a6265ce6bfddcff8de05ebaf4852fdb7b45281668979af21814d2274a967219ec0091788f73496f83a888e",
+      "size": 1974433,
+      "lastModified": "2025-11-13T07:04:59.061Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "hSSqdyU1",
+        "version": "KQsWJIIJ"
+      }
+    },
+    {
+      "filename": "create-enchantment-industry-2.2.5b.jar",
+      "name": "Create: Enchantment Industry",
+      "version": "Unknown",
+      "modid": "create__enchantment_industry",
+      "side": "both",
+      "url": null,
+      "sha512": "eca05bb24d3d13a8420428d17717db18f63e36b844f6ab21ddd2c26d147f3a6203fc7daf1919d78cc89a6d60d98c6a7d895919e648588546dc6289dec0584604",
+      "size": 678897,
+      "lastModified": "2025-11-13T18:33:20.716Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "JWGBpFUP",
+        "version": "RhbACzlM"
+      }
+    },
+    {
+      "filename": "create_extra_casing-4.0.4.jar",
+      "name": "Create Extra Casing",
+      "version": "Unknown",
+      "modid": "create_extra_casing",
+      "side": "both",
+      "url": null,
+      "sha512": "4475da2d725228944163f49eac7614416afcdb955347c99c01a69caa553150fa46fbf7a96dd2618cf6b728ff3512535dcd231e9bcca163719813ebc5d711895c",
+      "size": 1484026,
+      "lastModified": "2025-11-13T07:04:59.853Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "yEGVcr59",
+        "version": "8w86yown"
+      }
+    },
+    {
+      "filename": "createfood-neoforge-1.21.1-2.0.0-beta-3.jar",
+      "name": "Create: Food",
+      "version": "Unknown",
+      "modid": "create__food",
+      "side": "both",
+      "url": null,
+      "sha512": "138a415ce7885bb1797a25176d38b9e5414c8ebc58782b9c49ff471afef100138f609e0c8dc61d11db00e7552a93101eb2e0af2b53c1ef8d5dc8efd4b6106803",
+      "size": 6913049,
+      "lastModified": "2025-11-13T04:36:03.731Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "4HnO3el1",
+        "version": "Sd9pbQKb"
+      }
+    },
+    {
+      "filename": "create-integrated-farming-1.2.0b.jar",
+      "name": "Create: Integrated Farming",
+      "version": "Unknown",
+      "modid": "create__integrated_farming",
+      "side": "both",
+      "url": null,
+      "sha512": "601a97f82dfa37355b35676af0b0096c5969f4ff7c4744ac908b252558e3c07f6317fb7684dcb2a92bdee5d359428f93ba843c06fc4ee030b8af896f08af25ba",
+      "size": 404014,
+      "lastModified": "2025-11-13T07:04:59.572Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "9k1pAsfR",
+        "version": "vaiZmH2z"
+      }
+    },
+    {
+      "filename": "create_jetpack-forge-5.1.1.jar",
+      "name": "Create Jetpack",
+      "version": "Unknown",
+      "modid": "create_jetpack",
+      "side": "both",
+      "url": null,
+      "sha512": "d1193399dfc6bcdc7d40622c113a13e1b40dc6e372558536a83065efccb0e417eb26846d6667b8e6f389212f8efabf71a28f9a4b2f799910ce7598901c9bf365",
+      "size": 481230,
+      "lastModified": "2025-11-13T07:04:58.908Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "UbFnAd4l",
+        "version": "B7vWBL40"
+      }
+    },
+    {
+      "filename": "create_ltab-3.4.1.jar",
+      "name": "Create: Let The Adventure Begin",
+      "version": "Unknown",
+      "modid": "create__let_the_adventure_begin",
+      "side": "both",
+      "url": null,
+      "sha512": "6658a51f60e4638bfd2572f702d1d317e59abfe79ef54af5ddb12a2b356fbfc1d06ea3a8eeefea63174ed92b7b856288fe61a37997fef4f283894d0c550b43ec",
+      "size": 2083781,
+      "lastModified": "2025-11-13T07:04:59.279Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "fUa6OtBG",
+        "version": "Oc54nvt1"
+      }
+    },
+    {
+      "filename": "create_mixed_casing-1.21.1-1.1.0.jar.disabled",
+      "name": "Create: Mixed Casing",
+      "version": "Unknown",
+      "modid": "create__mixed_casing",
+      "side": "both",
+      "url": null,
+      "sha512": "e4c183b38185080ac9244c2313ac92d892184862cc1daac5a60200c3e20a6c86ce2b7042ab87f9b51e0ed94988b3630089d246ede5e708a54b46a0259721c8b3",
+      "size": 1938872,
+      "lastModified": "2025-11-13T07:04:59.064Z",
+      "disabled": true,
+      "modrinth": {
+        "modId": "wMgXLrSd",
+        "version": "c1vONsqP"
+      }
+    },
+    {
+      "filename": "create_pattern_schematics-2.0.10.jar",
+      "name": "Create: Pattern Schematics",
+      "version": "Unknown",
+      "modid": "create__pattern_schematics",
+      "side": "both",
+      "url": null,
+      "sha512": "c55e7d708aab59990ea123b32b5ecca3cdd8a0409e441257e87ac2bc414c15a4976ed06fb4aea3f4c216c4951f519295bb111c896642fd80520bcfc9227e24ee",
+      "size": 221764,
+      "lastModified": "2025-11-13T07:23:38.312Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "cpqKG67r",
+        "version": "VSJhIkG2"
+      }
+    },
+    {
+      "filename": "perfectprocessing-1.2.jar",
+      "name": "Create: Perfect Processing",
+      "version": "Unknown",
+      "modid": "create__perfect_processing",
+      "side": "both",
+      "url": null,
+      "sha512": "639193a109e48b2188b513131abafc4bac9f8f5b237fd5fa224a827a974db6b686d2142e731cb9b1436b7c87bf77bdd02e75ab1be68b47c6f1a75bf49d9b2361",
+      "size": 628956,
+      "lastModified": "2025-11-13T07:23:38.352Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "Rr1NLgMX",
+        "version": "iGaxNJUI"
+      }
+    },
+    {
+      "filename": "create_power_loader-2.0.3-mc1.21.1.jar",
+      "name": "Create: Power Loader",
+      "version": "Unknown",
+      "modid": "create__power_loader",
+      "side": "both",
+      "url": null,
+      "sha512": "b0552ff1fa0d23dddd66b425a5454784f373b635a730892675921c90d2ad288164f483fe53f13b79ce60317d5456c8cd9c6308ec3806bbf10b12674b8b94e77a",
+      "size": 404692,
+      "lastModified": "2025-11-13T07:23:38.261Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "wPQ6GgFE",
+        "version": "ydVSjzJR"
+      }
+    },
+    {
+      "filename": "create_structures_arise-162.35.34-neoforge-1.21.1.jar",
+      "name": "Create: Structures Arise",
+      "version": "Unknown",
+      "modid": "create__structures_arise",
+      "side": "both",
+      "url": null,
+      "sha512": "3d0240c3052d8b70d5b6f4a8c6b1e7b03c35f4ab5da57ff85f72651519e95cb4ca2a1284485f6f9db6cb769068c08a2f3bb8683d4e22b6797dd355f72b6b1e5f",
+      "size": 635276,
+      "lastModified": "2025-11-13T04:36:03.760Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "9enMEvoc",
+        "version": "RRdf8hsL"
+      }
+    },
+    {
+      "filename": "create-stuff-additions1.21.1_v2.1.0e.jar",
+      "name": "Create Stuff 'N Additions",
+      "version": "Unknown",
+      "modid": "create_stuff__n_additions",
+      "side": "both",
+      "url": null,
+      "sha512": "b259596a70dfd2e4f8449e9151e7c2816eeffa51a508f9f123e16e452024dafb0f9a81c23acf79bb5c32a030ccbf9175d29066a7ee1ed78053cad8e491715bf6",
+      "size": 1318700,
+      "lastModified": "2025-11-13T07:04:59.307Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "aq9qUUQG",
+        "version": "r1ark55O"
+      }
+    },
+    {
+      "filename": "create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar",
+      "name": "Create Waystones Recipes",
+      "version": "Unknown",
+      "modid": "create_waystones_recipes",
+      "side": "both",
+      "url": null,
+      "sha512": "156a67e3ce2e6836e23878545768868807455819cf83c46639872cb5b059107ced6f54b2ae24be21be3741bf9140cde081fdd5edbe0c87dfed5943a47c71f671",
+      "size": 115975,
+      "lastModified": "2025-11-13T04:47:13.750Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "wQpKGqNJ",
+        "version": "RLFXmYNg"
+      }
+    },
+    {
+      "filename": "create-1.21.1-6.0.8.jar",
+      "name": "Create",
+      "version": "Unknown",
+      "modid": "create",
+      "side": "both",
+      "url": null,
+      "sha512": "cb3ffee35ee2b2ab212fb4649e75ccfcb8e99ae954cf0b0251591062e3f200e5e639e8f40d7af7c79b7dc71164a027b0e6fbcd5c0bafe2da88f888fc3ffd254c",
+      "size": 19001557,
+      "lastModified": "2025-11-13T04:36:03.269Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "LNytGWDc",
+        "version": "88L641Un"
+      }
+    },
+    {
+      "filename": "create_oxidized-0.1.3.jar",
+      "name": "Create: Oxidized",
+      "version": "Unknown",
+      "modid": "create__oxidized",
+      "side": "server",
+      "url": null,
+      "sha512": "e13c938efe11bf23360d6e23b9186cd374e08ab099159eaa51fb1531561ee9c8702cf649280068bd07be3874776dd0866c93fdea7e709d4937bc5a11db7744ca",
+      "size": 121297,
+      "lastModified": "2025-11-13T07:23:38.298Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "X9kjRZeX",
+        "version": "z8PFRVBs"
+      }
+    },
+    {
+      "filename": "createbetterfps-1.21.1-1.1.3.jar",
+      "name": "CreateBetterFps",
+      "version": "Unknown",
+      "modid": "createbetterfps",
+      "side": "client",
+      "url": null,
+      "sha512": "fa823eaa1a274c492045d625a0470dd0cbfb7b8b14c3fa9a80a02ee023550f01e7818daf417fa6d3e8e021469df6a90cee98269df3e516c9d2cb27f06f93170b",
+      "size": 26171,
+      "lastModified": "2025-11-13T07:23:38.314Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "lMYIHZNH",
+        "version": "fXfWOQ16"
+      }
+    },
+    {
+      "filename": "CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
+      "name": "CreativeCore",
+      "version": "Unknown",
+      "modid": "creativecore",
+      "side": "both",
+      "url": null,
+      "sha512": "7f7dc2cfd229c32761f9f62dda1274fc03ab5f8d631eedc0bafa7d70dd5cbf71c1d4fc0238b8c75ae94452d5bd160cf0f77e564364aff5bc2b23963c33cb6474",
+      "size": 1199290,
+      "lastModified": "2025-11-13T04:25:16.724Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "OsZiaDHq",
+        "version": "V1tOX3OK"
+      }
+    },
+    {
+      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "name": "Curios API",
+      "version": "Unknown",
+      "modid": "curios_api",
+      "side": "both",
+      "url": null,
+      "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5",
+      "size": 410690,
+      "lastModified": "2025-11-13T04:25:15.946Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "vvuO3ImH",
+        "version": "yohfFbgD"
+      }
+    },
+    {
+      "filename": "CutThrough-v21.1.0-1.21.1-NeoForge.jar",
+      "name": "Cut Through",
+      "version": "Unknown",
+      "modid": "cut_through",
+      "side": "client",
+      "url": null,
+      "sha512": "e6313fe2c2fb8b5131b39bf8ae105e5120630b78d713db5a573c6830a476868beee3f38aa4da7c29779214b7690af83ca0ce9036d1f757a54c2352e0748cd256",
+      "size": 51371,
+      "lastModified": "2025-11-13T04:47:12.903Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "Dk6su9JN",
+        "version": "5P5tLHSh"
+      }
+    },
+    {
+      "filename": "dawnoftimebuilder-neoforge-1.21.1-1.6.4.jar",
+      "name": "Dawn of Time",
+      "version": "Unknown",
+      "modid": "dawn_of_time",
+      "side": "both",
+      "url": null,
+      "sha512": "2a1d3fb3bd0553d5de5beea9cd0bccdae32c51be17acadb791d9a858c640d1ffb8dc064a736ee5a81a8ecbeb6a67e9088e988b1f22a12e2f4b614271621c8b09",
+      "size": 2400198,
+      "lastModified": "2025-11-14T00:05:37.006Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "RgWXq0La",
+        "version": "GzjWpt0P"
+      }
+    },
+    {
+      "filename": "deeperdarker-neoforge-1.21-1.3.4.jar",
+      "name": "Deeper and Darker",
+      "version": "Unknown",
+      "modid": "deeper_and_darker",
+      "side": "both",
+      "url": null,
+      "sha512": "c7041b8671e87ff5271a53631ceaab77168154851108ef1876fab1e141382db77337c8aaadb615b96d1196db699af492029a454a6088ea97860fb6897af501a8",
+      "size": 17885687,
+      "lastModified": "2025-11-13T04:47:13.426Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "fnAffV0n",
+        "version": "5FhUw189"
+      }
+    },
+    {
+      "filename": "doubledoors-1.21.1-7.2.jar",
+      "name": "Double Doors",
+      "version": "Unknown",
+      "modid": "double_doors",
+      "side": "server",
+      "url": null,
+      "sha512": "c88215ccbd8fd491ab334d60dbcc00f22664f01f95b638b679307c1b3857340ddb8041b7887be18a2cce128baae7685b8d097f840796894bd3ae8eac979ced66",
+      "size": 75041,
+      "lastModified": "2025-11-14T00:38:12.721Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "JrvR9OHr",
+        "version": "KgGapm4H"
+      }
+    },
+    {
+      "filename": "entity_model_features_1.21-neoforge-3.0.1.jar",
+      "name": "[EMF] Entity Model Features",
+      "version": "Unknown",
+      "modid": "_emf__entity_model_features",
+      "side": "client",
+      "url": null,
+      "sha512": "78de8b97383ef2a656d32f5ee435aacdb7e1e8df97e9817468de0afbea21d3142545799e03370443af6db40e51fac97cd8feaaf0385046bb905cfa808752617a",
+      "size": 470634,
+      "lastModified": "2025-11-13T04:47:12.996Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "4I1XuqiY",
+        "version": "qexsPT1y"
+      }
+    },
+    {
+      "filename": "entity_texture_features_1.21-neoforge-7.0.2.jar",
+      "name": "[ETF] Entity Texture Features",
+      "version": "Unknown",
+      "modid": "_etf__entity_texture_features",
+      "side": "client",
+      "url": null,
+      "sha512": "ab2d7089f1b800b81d23124acea73aee759c642ef3aec6158538326405d6a7139317b40fa22441792177fdd99e2e915a17ecf6ce419f00f38c624bcd6c4942e6",
+      "size": 700889,
+      "lastModified": "2025-11-13T04:47:13.034Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "BVzZfTc1",
+        "version": "4qRHVcko"
+      }
+    },
+    {
+      "filename": "extra_gauges-2.0.6.jar",
+      "name": "Create: Extra Gauges",
+      "version": "Unknown",
+      "modid": "create__extra_gauges",
+      "side": "both",
+      "url": null,
+      "sha512": "9aea8f64fc4103b26e9111f04001ba3f9ddf477faae06be5c500a488149e1b3fcf0803ded32c99623e8d96b3000363542e2de180c6bf56ae1302367ee0560bbc",
+      "size": 1027415,
+      "lastModified": "2025-11-13T07:04:59.559Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "6YJgomwt",
+        "version": "yFv98E4V"
+      }
+    },
+    {
+      "filename": "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+      "name": "Fabric Language Kotlin",
+      "version": "Unknown",
+      "modid": "fabric_language_kotlin",
+      "side": "both",
+      "url": null,
+      "sha512": "0453a8a4eb8d791b5f0097a6628fae6f13b6dfba1e2bd1f91218769123808c4396a88bcdfc785f1d6bca348f267b32afc2aa9e0d5ec93a7b35bcfe295268c7bc",
+      "size": 7479608,
+      "lastModified": "2025-11-13T06:14:46.185Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "Ha28R6CL",
+        "version": "LcgnDDmT"
+      }
+    },
+    {
+      "filename": "FarmersDelight-1.21.1-1.2.9.jar",
+      "name": "Farmer's Delight",
+      "version": "Unknown",
+      "modid": "farmer_s_delight",
+      "side": "both",
+      "url": null,
+      "sha512": "00a7db6776e6aa305aa7511c267866b43cf044c154f3825d344ef2685758049486a84a2f1f19920e3cd663ad7971fda326c9a501f8352abe506a170dc05f7104",
+      "size": 2964387,
+      "lastModified": "2025-11-13T04:36:02.312Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "R2OftAxM",
+        "version": "opCbq7uB"
+      }
+    },
+    {
+      "filename": "ferritecore-7.0.2-neoforge.jar",
+      "name": "FerriteCore",
+      "version": "Unknown",
+      "modid": "ferritecore",
+      "side": "both",
+      "url": null,
+      "sha512": "2a5a7b79473c42572bdbbd1f429a459630d793b35f3eb17051139a94bced2d13c39e9c6309c81368d5502bc46c509e9868a8b5fa3cf93c51375a694cd96c20ac",
+      "size": 118911,
+      "lastModified": "2025-11-13T04:36:02.344Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "uXXizFIs",
+        "version": "CnpoQxCx"
+      }
+    },
+    {
+      "filename": "forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar",
+      "name": "Forgified Fabric API",
+      "version": "Unknown",
+      "modid": "forgified_fabric_api",
+      "side": "both",
+      "url": null,
+      "sha512": "b412ba686f327ec501f58f2335667de02eea0f6350f78a48ca0faaec9015d0e142058c2fc25aba35485096434a01e09a3b94fa930f44977142bd200bb606a2b3",
+      "size": 5578066,
+      "lastModified": "2025-11-13T04:25:16.219Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "Aqlf1Shp",
+        "version": "9uOfdsZC"
+      }
+    },
+    {
+      "filename": "fusion-1.2.11b-neoforge-mc1.21.jar",
+      "name": "Fusion (Connected Textures)",
+      "version": "Unknown",
+      "modid": "fusion__connected_textures_",
+      "side": "client",
+      "url": null,
+      "sha512": "1ce8ff9823e4b183141b699284009cb6f61fab3787d9527f6382e73d664d13e9ce2d072ad389bb29adceb19064c654ff68db3796e83fb6ba91ea7a684477ad81",
+      "size": 532221,
+      "lastModified": "2025-11-13T04:47:12.965Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "p19vrgc2",
+        "version": "Yu4K7Wuw"
+      }
+    },
+    {
+      "filename": "geckolib-neoforge-1.21.1-4.8.2.jar",
+      "name": "Geckolib",
+      "version": "Unknown",
+      "modid": "geckolib",
+      "side": "both",
+      "url": null,
+      "sha512": "6b70d7dc11adb68cd590110c6b29de39eaae40b55f934026288a2018f6d529a2579124d0596825126db4a499f0dfc26248e4005a452bc1b0d4d05c0279e33602",
+      "size": 621848,
+      "lastModified": "2025-11-13T04:25:16.672Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "8BmcQJ2H",
+        "version": "RVIo5f6E"
+      }
+    },
+    {
+      "filename": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "name": "GlitchCore",
+      "version": "Unknown",
+      "modid": "glitchcore",
+      "side": "both",
+      "url": null,
+      "sha512": "008ec969716ffa2a45bf74f8c44d2c28e16558688a71806670e307d29fa76a82daf4d2f990a4964345228a7ba77bdb8592d1572c723b7b06c8f9c3ffae63acdb",
+      "size": 90918,
+      "lastModified": "2025-11-13T04:25:17.520Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "s3dmwKy5",
+        "version": "8wmCpbQ2"
+      }
+    },
+    {
+      "filename": "guideme-21.1.15.jar",
+      "name": "GuideME",
+      "version": "Unknown",
+      "modid": "guideme",
+      "side": "both",
+      "url": null,
+      "sha512": "4a35b2d9ae3958cb9e152757223b0fc0f85ed2c55da2c3bb773b9a353cf5db15e4294ac2b6d897c0d7c82674dd86c084dd2e35fb80b5bcf92067735c03288edc",
+      "size": 9309183,
+      "lastModified": "2025-11-13T05:25:48.065Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "Ck4E7v7R",
+        "version": "ILW6vM7o"
+      }
+    },
+    {
+      "filename": "Jade-1.21.1-NeoForge-15.10.3.jar",
+      "name": "Jade 🔍",
+      "version": "Unknown",
+      "modid": "jade___",
+      "side": "both",
+      "url": null,
+      "sha512": "351926187c564d1f2bae2f084c77f80fe850dc90837153ef01506c049f16b02307196ed383ae25cd334530106aa741b12dd90f5e1b205439fde2b74d09274bc0",
+      "size": 725736,
+      "lastModified": "2025-11-13T04:36:02.531Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "nvQzSEkH",
+        "version": "43sRR8f6"
+      }
+    },
+    {
+      "filename": "jei-1.21.1-neoforge-19.25.0.325.jar",
+      "name": "Just Enough Items (JEI)",
+      "version": "Unknown",
+      "modid": "just_enough_items__jei_",
+      "side": "both",
+      "url": null,
+      "sha512": "da6dd78c4d45b62d22406e699077749d005c82e5ace7fe3bd852d35598c49879ff31111a110b2c8f39e2cb7346acd2b5605a1e535f03ee88e3c9bc7fd122497e",
+      "size": 1506581,
+      "lastModified": "2025-11-13T04:36:02.335Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "u6dRKJwZ",
+        "version": "OwlaxQID"
+      }
+    },
+    {
+      "filename": "Kiwi-1.21.1-NeoForge-15.8.2.jar",
+      "name": "Kiwi 🥝",
+      "version": "Unknown",
+      "modid": "kiwi___",
+      "side": "both",
+      "url": null,
+      "sha512": "25a745c24d3baa3c24e7840ff85cdbd0b10cdbee194f5d41e28d419595b67b7175a4a648a6b141acf11c6c8137e0f73e0fd903d7d51d8d29e675eb9734314f14",
+      "size": 1530397,
+      "lastModified": "2025-11-13T04:25:17.518Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "ufdDoWPd",
+        "version": "eCzvKS7q"
+      }
+    },
+    {
+      "filename": "kotlinforforge-5.10.0-all.jar",
+      "name": "Kotlin for Forge",
+      "version": "Unknown",
+      "modid": "kotlin_for_forge",
+      "side": "both",
+      "url": null,
+      "sha512": "0c7a23c6b8017c9a24694bc6c0dbcb3d9b4ec630ae2ff965c0ee478ca881ad70f4755388678430b0175c3abe18c66fcbc25ed9be6f600bcdc083743eaecbfc35",
+      "size": 6730190,
+      "lastModified": "2025-11-13T04:25:16.271Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "ordsPcFz",
+        "version": "pp2cY80Q"
+      }
+    },
+    {
+      "filename": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "name": "KubeJS Create",
+      "version": "Unknown",
+      "modid": "kubejs_create",
+      "side": "both",
+      "url": null,
+      "sha512": "b2c3064a06f7a06aa479c38daa72fcf88e31e753cb16c53435690b2472f71acea49fe3fcab09a1e5d6fed88b289941f9ecf3f71ba9a7b8b84397cab2b8d9801d",
+      "size": 38629,
+      "lastModified": "2025-11-13T07:04:59.646Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "T38eAZQC",
+        "version": "1qmcLagN"
+      }
+    },
+    {
+      "filename": "kubejs-neoforge-2101.7.2-build.321.jar",
+      "name": "KubeJS",
+      "version": "Unknown",
+      "modid": "kubejs",
+      "side": "both",
+      "url": null,
+      "sha512": "ade5118b9235b20ed2cad2e6b627cefb1565ae64863e879fff0393574d7af7402c3470fd01bd1f854dda87ef9130e80111c1d11cc678f7e6048725b337af17f6",
+      "size": 2222794,
+      "lastModified": "2025-11-13T07:04:59.797Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "umyGl7zF",
+        "version": "f6Gtvr5k"
+      }
+    },
+    {
+      "filename": "litematica-fabric-1.21-0.19.59.jar",
+      "name": "Litematica",
+      "version": "Unknown",
+      "modid": "litematica",
+      "side": "client",
+      "url": null,
+      "sha512": "d8efcbeec574d3f89798f70704e72d6d424760b0e7f95985939668fcbec3af56d649938e5c17dfd999194502c67e8409a894c88af62c872b4afd6144c5da1fdc",
+      "size": 1358084,
+      "lastModified": "2025-11-14T00:05:36.826Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "bEpr0Arc",
+        "version": "fLTKEEjY"
+      }
+    },
+    {
+      "filename": "lithostitched-1.5.0-neoforge-1.21.1.jar",
+      "name": "Lithostitched",
+      "version": "Unknown",
+      "modid": "lithostitched",
+      "side": "server",
+      "url": null,
+      "sha512": "11c3d2df8b7d0f7dfb667f1e191adc3607ee72de237df579ad0457e7400b6ff0577b0b731768127dde62b2e0f075419c39f34598870cea210bd86e452c5dd677",
+      "size": 545061,
+      "lastModified": "2025-11-13T06:38:24.768Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "XaDC71GB",
+        "version": "LB6vOkpN"
+      }
+    },
+    {
+      "filename": "lootr-neoforge-1.21-1.10.35.91.jar",
+      "name": "Lootr",
+      "version": "Unknown",
+      "modid": "lootr",
+      "side": "both",
+      "url": null,
+      "sha512": "0bc76fd2bec843a357e2443b78c40c5811f73b068fead044bd619c50611a8d2eaf4b82e47c1f6894f7da6af2130992506c40d6c5fc334fe4d6ffaaabb4eaae06",
+      "size": 560194,
+      "lastModified": "2025-11-13T04:47:13.002Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "EltpO5cN",
+        "version": "QMRmPuOh"
+      }
+    },
+    {
+      "filename": "mcw-bridges-3.1.1-mc1.21.1neoforge.jar",
+      "name": "Macaw's Bridges",
+      "version": "Unknown",
+      "modid": "macaw_s_bridges",
+      "side": "both",
+      "url": null,
+      "sha512": "56815ee76e34188cff8987d673a99fb754a7259ba697f1dd3c46788237dd0f862f46ad75f0ab7ab508869fd2381da24dc7d90ef4185664961c948aaa0a265402",
+      "size": 652279,
+      "lastModified": "2025-11-14T00:38:12.931Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "GURcjz8O",
+        "version": "4AUDy7dQ"
+      }
+    },
+    {
+      "filename": "mcw-doors-1.1.2-mc1.21.1neoforge.jar",
+      "name": "Macaw's Doors",
+      "version": "Unknown",
+      "modid": "macaw_s_doors",
+      "side": "both",
+      "url": null,
+      "sha512": "8589d05dca9b39e49d1cc4f18eedccc990ad9670eb1089e6c20f6f3a9384c5968b0147b94c824a5c2355957d34f7be1058fda1525d21cdc350c8422b8734ac39",
+      "size": 1193693,
+      "lastModified": "2025-11-14T00:38:13.036Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "kNxa8z3e",
+        "version": "4EOKyL43"
+      }
+    },
+    {
+      "filename": "mcw-fences-1.2.0-1.21.1neoforge.jar",
+      "name": "Macaw's Fences and Walls",
+      "version": "Unknown",
+      "modid": "macaw_s_fences_and_walls",
+      "side": "both",
+      "url": null,
+      "sha512": "c3efaece6e4b9957ee19bbb8119411684d58dee07df67ec21a288a79e86c72c5111e137068639f5b0c02c412e20e3135fb74041d5ac10776aaab9538db206c2f",
+      "size": 661246,
+      "lastModified": "2025-11-14T00:38:12.826Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "GmwLse2I",
+        "version": "8JOkuC5Y"
+      }
+    },
+    {
+      "filename": "mcw-furniture-3.4.0-mc1.21.1neoforge.jar",
+      "name": "Macaw's Furniture",
+      "version": "Unknown",
+      "modid": "macaw_s_furniture",
+      "side": "both",
+      "url": null,
+      "sha512": "06cc74751c0d467f27fdd66697e598df27d17aa290e242e449f3b255c8d91a9c74f9069fbb746a1c6c58deebb85e4ab0fb68c4c2e18664a541cf55ee0c67c0f4",
+      "size": 2077327,
+      "lastModified": "2025-11-14T00:38:13.363Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "dtWC90iB",
+        "version": "bQhrDvJ1"
+      }
+    },
+    {
+      "filename": "mcw-lights-1.1.2-mc1.21.1neoforge.jar",
+      "name": "Macaw's Lights and Lamps",
+      "version": "Unknown",
+      "modid": "macaw_s_lights_and_lamps",
+      "side": "both",
+      "url": null,
+      "sha512": "de9d1b636de31ea6aa12589d6db0bbe706c8b3953fcd8d60aa163eb044d6919ee4e21abeca099b07f489789236b108e15cf39144ec9860b068e3598228a4d2a3",
+      "size": 517577,
+      "lastModified": "2025-11-14T00:38:13.297Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "w4an97C2",
+        "version": "iqA6aZjj"
+      }
+    },
+    {
+      "filename": "mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "name": "Macaw's Paths and Pavings",
+      "version": "Unknown",
+      "modid": "macaw_s_paths_and_pavings",
+      "side": "both",
+      "url": null,
+      "sha512": "8a7bc0100e57369fdcfbb65164fdf97cd7f6a931882d0f63aae15fd3db8975a78cc8734f34f640a5790dddaca5883d8e97117e7966dab50de479b1a8f3662678",
+      "size": 777742,
+      "lastModified": "2025-11-14T00:38:13.248Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "VRLhWB91",
+        "version": "tlymsxUG"
+      }
+    },
+    {
+      "filename": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "name": "Macaw's Roofs",
+      "version": "Unknown",
+      "modid": "macaw_s_roofs",
+      "side": "both",
+      "url": null,
+      "sha512": "c0e82a3d0a3ab2f2fac5fb0bdd7c7c228f084feaa816540d3d9524f341c8b108c3bb1afecadae2e8118e6c93f0e73280c62da1af4349aca87b6aa337e5e22ae4",
+      "size": 1784829,
+      "lastModified": "2025-11-14T00:38:13.241Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "B8jaH3P1",
+        "version": "jiXRXiSt"
+      }
+    },
+    {
+      "filename": "mcw-stairs-1.0.1-1.21.1neoforge.jar",
+      "name": "Macaw's Stairs",
+      "version": "Unknown",
+      "modid": "macaw_s_stairs",
+      "side": "both",
+      "url": null,
+      "sha512": "49e7ad67a52eb54ffa49c1a40b0e51f9b9e40d4bd0bc78077290b75b55d20da3de966a75c93ace60308373434e866703c4624d7bd533310c650e0f797a079f44",
+      "size": 516062,
+      "lastModified": "2025-11-14T00:38:13.046Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "iP3wH1ha",
+        "version": "KJxX9n2H"
+      }
+    },
+    {
+      "filename": "mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar",
+      "name": "Macaw's Trapdoors",
+      "version": "Unknown",
+      "modid": "macaw_s_trapdoors",
+      "side": "both",
+      "url": null,
+      "sha512": "7a42940bd8fc9b1adaf974d1d450d3bffce9469480d6c2e4a456443d0535b6a7170bf3be6e4c148bad102b08611791323d6a90418d63828c1d62c853d81bba2b",
+      "size": 564985,
+      "lastModified": "2025-11-14T00:38:13.359Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "n2fvCDlM",
+        "version": "tAEmSGIF"
+      }
+    },
+    {
+      "filename": "mcw-mcwwindows-2.4.1-mc1.21.1neoforge.jar",
+      "name": "Macaw's Windows",
+      "version": "Unknown",
+      "modid": "macaw_s_windows",
+      "side": "both",
+      "url": null,
+      "sha512": "afff7c3fb8efa4869bc93386ee7a28c273ce3a4dfa0cfed2ca20fd37c194cfebf7f05a241ca4f1ecc4f429d103b58295fcaebf8f119f1539fbbdc3d27a909e79",
+      "size": 1263264,
+      "lastModified": "2025-11-14T00:38:13.015Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "C7I0BCni",
+        "version": "IbVRByqd"
+      }
+    },
+    {
+      "filename": "malilib-fabric-1.21-0.21.9.jar",
+      "name": "MaLiLib",
+      "version": "Unknown",
+      "modid": "malilib",
+      "side": "client",
+      "url": null,
+      "sha512": "4add5986180e5612489a62322f6c95430582d45dd516c5eab9841c63875a07bef65438b9eb61e0121c5b036535fd44366db9a4838b8d7de542ad54a941b8a589",
+      "size": 1207522,
+      "lastModified": "2025-11-14T00:05:36.645Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "GcWjdA9I",
+        "version": "xTezyq2N"
+      }
+    },
+    {
+      "filename": "midnightlib-1.7.5-neoforge+1.21.1.jar",
+      "name": "MidnightLib",
+      "version": "Unknown",
+      "modid": "midnightlib",
+      "side": "both",
+      "url": null,
+      "sha512": "8471ce6c8124c80164e46868bd6984f467291a5bdf883b271b261f712a204b2121073756fe9f54adc6b87b86bc5e2208121cc759242e31f37d97e54d46b263ba",
+      "size": 67078,
+      "lastModified": "2025-11-13T04:25:17.485Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "codAaoxh",
+        "version": "HIlaYrgj"
+      }
+    },
+    {
+      "filename": "minihud-fabric-1.21-0.32.59.jar",
+      "name": "MiniHUD",
+      "version": "Unknown",
+      "modid": "minihud",
+      "side": "client",
+      "url": null,
+      "sha512": "45e9cc541854a2e0b71a394919910d75fda6ba351b4bfe4cf5e1f24fee116c6ff27753bd064ac216d69ff9307878f218706cee054bc2548c41d870569a290022",
+      "size": 676544,
+      "lastModified": "2025-11-14T00:05:36.742Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "UMxybHE8",
+        "version": "qbsbGm0M"
+      }
+    },
+    {
+      "filename": "modernfix-neoforge-5.25.1+mc1.21.1.jar",
+      "name": "ModernFix",
+      "version": "Unknown",
+      "modid": "modernfix",
+      "side": "both",
+      "url": null,
+      "sha512": "e82ba385f2f4737bc5817db449c9e0082ec86e710265f6e991df562da8dbf2f27b1472c62f7f74ff9c38d51b49a5cc4acd8680d3aa00a266c10826a54624ca84",
+      "size": 569818,
+      "lastModified": "2025-11-13T04:36:02.195Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "nmDcB62a",
+        "version": "8Be8uJW6"
+      }
+    },
+    {
+      "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "name": "Mouse Tweaks",
+      "version": "Unknown",
+      "modid": "mouse_tweaks",
+      "side": "client",
+      "url": null,
+      "sha512": "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b",
+      "size": 73938,
+      "lastModified": "2025-11-13T04:47:13.040Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "aC3cM3Vq",
+        "version": "9I21YYxf"
+      }
+    },
+    {
+      "filename": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+      "name": "Nature's Compass",
+      "version": "Unknown",
+      "modid": "nature_s_compass",
+      "side": "both",
+      "url": null,
+      "sha512": "4caa38ac13ac61ea57e75673845674d6904af3a8c481004ab99c27f19110160809c02b40ac2a4eff91ba6e4c55f68aa12018818ba097ca49b6092e0d17558daa",
+      "size": 216873,
+      "lastModified": "2025-11-13T04:36:02.533Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "fPetb5Kh",
+        "version": "AqEmYPpi"
+      }
+    },
+    {
+      "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "name": "No Chat Reports",
+      "version": "Unknown",
+      "modid": "no_chat_reports",
+      "side": "both",
+      "url": null,
+      "sha512": "292a3623b5addb17e9f15681a4f2534562e9882ef809e504f49da4778fafc12e21a71995b5d05554d435201f401ace1e86af50e6e26f6ce9d203a5896a1ece21",
+      "size": 306668,
+      "lastModified": "2025-11-13T04:47:13.148Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "qQyHxfxd",
+        "version": "ZV8eL55E"
+      }
+    },
+    {
+      "filename": "open-parties-and-claims-neoforge-1.21.1-0.25.8.jar",
+      "name": "Open Parties and Claims",
+      "version": "Unknown",
+      "modid": "open_parties_and_claims",
+      "side": "both",
+      "url": null,
+      "sha512": "b969b2afd6d2b5e2085127399ccefaa2c6dcef9f91aada26c274f0afa633f9425a8aa6db225a48de33daefba04a9a6f48dd212f7b4487186aa861a560084982a",
+      "size": 1311358,
+      "lastModified": "2025-11-13T04:47:13.275Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "gF3BGWvG",
+        "version": "M6DB7Bdh"
+      }
+    },
+    {
+      "filename": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "name": "Paxi",
+      "version": "Unknown",
+      "modid": "paxi",
+      "side": "both",
+      "url": null,
+      "sha512": "ed6a33eb9a4ac6ce4dd0cd03a45aba6068536121ab89cd4040d8c53964d59a7a8ceaee2f3bae13a3df3813eaf8d4fc4f82883e28ac4577b53aa26b750a181699",
+      "size": 102980,
+      "lastModified": "2025-11-13T19:54:48.547Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "CU0PAyzb",
+        "version": "CLZfFbCx"
+      }
+    },
+    {
+      "filename": "pet-your-cobblemon-1.3.3.jar",
+      "name": "Pet Your Cobblemon",
+      "version": "Unknown",
+      "modid": "pet_your_cobblemon",
+      "side": "both",
+      "url": null,
+      "sha512": "1f484a23236c1106e0559419869bb04be09402a589aec9898180e4776998bc22976ef9889033769f2380e79114e1ad771f6ca8a46089c603d9c92ab7fcb72bb4",
+      "size": 29233,
+      "lastModified": "2025-11-13T05:21:24.064Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "lAyCdN8C",
+        "version": "5UqyNqLt"
+      }
+    },
+    {
+      "filename": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "name": "Puzzles Lib",
+      "version": "Unknown",
+      "modid": "puzzles_lib",
+      "side": "both",
+      "url": null,
+      "sha512": "84bac5cddae511234eea4387d34a96cc961a0e7d23b8c1ab17523b9762bee96a6aa132f57a417e5bc679565439784c268b92ee8d353e4b26f86d3ef5e1c5453b",
+      "size": 1080389,
+      "lastModified": "2025-11-13T04:25:16.203Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "QAGBst4M",
+        "version": "EgWWSAhJ"
+      }
+    },
+    {
+      "filename": "rechiseled_chipped-1.3-1.21.1.jar",
+      "name": "Rechiseled: Chipped",
+      "version": "Unknown",
+      "modid": "rechiseled__chipped",
+      "side": "both",
+      "url": null,
+      "sha512": "d5a10880c0bf812d7fb0ead7ab0b2763cd920b7e5ea4142fe22dd54139c33d5a7e7379336191acc2a1097689cdfa9c147f62de26c3d362bb85bd474300317f71",
+      "size": 193052,
+      "lastModified": "2025-11-13T07:04:58.881Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "ryYcxeeA",
+        "version": "TiCepA9Q"
+      }
+    },
+    {
+      "filename": "rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
+      "name": "Rechiseled: Create",
+      "version": "Unknown",
+      "modid": "rechiseled__create",
+      "side": "both",
+      "url": null,
+      "sha512": "5fcb978c04e3bff7b5a60e2589f0fd206169c6b26828a3c310aeb93d52ec93f594986006ac2d507d049a3b9ac8d1089a255034c7c7948cd3945b135581ee6cce",
+      "size": 658173,
+      "lastModified": "2025-11-13T04:47:13.264Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "E6867niZ",
+        "version": "nVRC1t23"
+      }
+    },
+    {
+      "filename": "rechiseled-1.1.6a-neoforge-mc1.21.jar",
+      "name": "Rechiseled",
+      "version": "Unknown",
+      "modid": "rechiseled",
+      "side": "both",
+      "url": null,
+      "sha512": "522c870ce447eed0ffe269805f5bd3d776a960249f864a49ba3f203bff2d2f353cc62cd79978fd9a352d68b312e0f02f918d53b3f66869c80c9c9af311e5b534",
+      "size": 3484553,
+      "lastModified": "2025-11-13T04:47:13.390Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "B0g2vT6l",
+        "version": "UZPjD9WH"
+      }
+    },
+    {
+      "filename": "remove-terralith-intro-message-1.1.jar",
+      "name": "Remove Terralith Intro Message",
+      "version": "Unknown",
+      "modid": "remove_terralith_intro_message",
+      "side": "both",
+      "url": null,
+      "sha512": "62391dc2948f14ea0bebab89bdd88bf768bacf458a1832dcd53f95b709c1caf3dde3470cb5b12f3efe5d6904c72410452c56fce952b03f474d9d7a5dc932dfbb",
+      "size": 98580,
+      "lastModified": "2025-11-13T04:36:02.744Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "sk4iFZGy",
+        "version": "Ad77N3iX"
+      }
+    },
+    {
+      "filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "name": "Resourceful Config",
+      "version": "Unknown",
+      "modid": "resourceful_config",
+      "side": "both",
+      "url": null,
+      "sha512": "8e4ccc37732b3f5190e7e98df34dbc1339fe614494fcabf1aeaeab9ad8e5993522964b51be31882000c08c48a6d0096b5458364415bb81f2b2b775a7daf2eb87",
+      "size": 341009,
+      "lastModified": "2025-11-13T04:25:16.134Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "M1953qlQ",
+        "version": "lSbyRD6v"
+      }
+    },
+    {
+      "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "name": "Resourceful Lib",
+      "version": "Unknown",
+      "modid": "resourceful_lib",
+      "side": "both",
+      "url": null,
+      "sha512": "a9d20e345faa9bcb297bd95ac9524205834804d1bb13518397dd4f7f62b352b08c3339ee7f7870d3669078ceeb33d5c31ea527aecce4b31d62ec1ff7d8b562c8",
+      "size": 484332,
+      "lastModified": "2025-11-13T07:04:59.763Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "G1hIVOrD",
+        "version": "x99nCLTm"
+      }
+    },
+    {
+      "filename": "rhino-2101.2.7-build.81.jar",
+      "name": "Rhino",
+      "version": "Unknown",
+      "modid": "rhino",
+      "side": "both",
+      "url": null,
+      "sha512": "83a4f35cce9902b7175700aeccb8519716ff407dff2a936aa0215e162d81421d109c95f82ff88a84ccbe197caee0a4a76ca44d9c8b8ce954162596d7ede18c23",
+      "size": 882033,
+      "lastModified": "2025-11-13T07:04:59.870Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "sk9knFPE",
+        "version": "ZdLtebKH"
+      }
+    },
+    {
+      "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "name": "Searchables",
+      "version": "Unknown",
+      "modid": "searchables",
+      "side": "client",
+      "url": null,
+      "sha512": "d0824bac1900142ac9a53e68f7ec3b4c0d33d9366bbd3f1d0d93eed860e5eb6b5e6f5a215a69bfffa70bcb48573ff49b5a12bbaa96096ceac6636000d506027a",
+      "size": 77326,
+      "lastModified": "2025-11-14T00:38:13.396Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "fuuu3xnx",
+        "version": "iEE85X0w"
+      }
+    },
+    {
+      "filename": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "name": "Serene Seasons",
+      "version": "Unknown",
+      "modid": "serene_seasons",
+      "side": "both",
+      "url": null,
+      "sha512": "8d6c2712019da586c9f3a1372f2951173cd5f7a821645ffa03e4448e56f6b277aab0651307e1d4d9e0944cb02d32b2caff581bde912cb21fc6fd7b7d84655b8c",
+      "size": 159206,
+      "lastModified": "2025-11-14T00:05:36.963Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "e0bNACJD",
+        "version": "SPj5bJoM"
+      }
+    },
+    {
+      "filename": "voicechat-neoforge-1.21.1-2.6.6.jar",
+      "name": "Simple Voice Chat",
+      "version": "Unknown",
+      "modid": "simple_voice_chat",
+      "side": "both",
+      "url": null,
+      "sha512": "ce2b4464034c3cb85df73bebd6bfcdc9c4cfa4a26bbb90ac327e3d08a2880207c46ffa7ecf5e6f0b6f41a63338e70085f1c0f0ea582cf615ccb7c4e60d98cc20",
+      "size": 4870236,
+      "lastModified": "2025-11-13T04:47:13.487Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "9eGKb6K1",
+        "version": "xPCSVWfI"
+      }
+    },
+    {
+      "filename": "sliceanddice-forge-4.2.2.jar",
+      "name": "Create Slice & Dice",
+      "version": "Unknown",
+      "modid": "create_slice___dice",
+      "side": "both",
+      "url": null,
+      "sha512": "6bc2bb30ae523b1b522e3fdd4bd6437e9f69074a4101b0d43bac3867b0e37ee60eb05cdaee55fea434444323f5c1fc4b3cab9bca0b6fda53b3685291b8b734ef",
+      "size": 406282,
+      "lastModified": "2025-11-13T07:04:59.182Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "GmjmRQ0A",
+        "version": "DwseRoo3"
+      }
+    },
+    {
+      "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "name": "Sodium",
+      "version": "Unknown",
+      "modid": "sodium",
+      "side": "client",
+      "url": null,
+      "sha512": "ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b",
+      "size": 1162994,
+      "lastModified": "2025-11-13T07:23:38.337Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "AANobbMI",
+        "version": "Pb3OXVqC"
+      }
+    },
+    {
+      "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+      "name": "Sophisticated Backpacks Create Integration",
+      "version": "Unknown",
+      "modid": "sophisticated_backpacks_create_integration",
+      "side": "both",
+      "url": null,
+      "sha512": "130d9a77f2b43926c9398983740813d268ce58e022a3c8e0eab98ba2439b9d3b2b819b0a845a8eb06bc336bdeb16e86cd4cbe8f7af834c11aaf1ae678977fcac",
+      "size": 82315,
+      "lastModified": "2025-11-13T04:47:13.697Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "s85zLEDe",
+        "version": "bWd7B59k"
+      }
+    },
+    {
+      "filename": "sophisticatedbackpacks-1.21.1-3.25.14.1410.jar",
+      "name": "Sophisticated Backpacks",
+      "version": "Unknown",
+      "modid": "sophisticated_backpacks",
+      "side": "both",
+      "url": null,
+      "sha512": "cdff944417fb9e95cdbda000fe18cfd91ab67f75e8002c4ba806472d1302501dd3b32aa24e7a4009c955cc08865de30070809b3dde8e0914c5c8537e6b6b3de7",
+      "size": 976161,
+      "lastModified": "2025-11-13T04:47:13.497Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "TyCTlI4b",
+        "version": "6TMD1wGs"
+      }
+    },
+    {
+      "filename": "sophisticatedcore-1.21.1-1.3.89.1239.jar",
+      "name": "Sophisticated Core",
+      "version": "Unknown",
+      "modid": "sophisticated_core",
+      "side": "both",
+      "url": null,
+      "sha512": "66ac39edb376ffef91c23a89d40db8ecf42dc1e8603a8103babee4a25e4f12402f6a0b6a82a2de838d60bc5848a2497e2558e60a8a724ff4f1844ec484168af5",
+      "size": 1485310,
+      "lastModified": "2025-11-13T04:47:13.515Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "nmoqTijg",
+        "version": "fmCASdlT"
+      }
+    },
+    {
+      "filename": "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
+      "name": "Sophisticated Storage Create Integration",
+      "version": "Unknown",
+      "modid": "sophisticated_storage_create_integration",
+      "side": "both",
+      "url": null,
+      "sha512": "d217ca0c2c00362cf2b1d88b8f5b2af36a5171193a19d83d31a605679d93d9e4bc826faa3e51710b984aa1e9096bcf93c2afdc186155d129202149266d0c4518",
+      "size": 131918,
+      "lastModified": "2025-11-13T04:47:13.781Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "MJ0hdevs",
+        "version": "7x2uQitJ"
+      }
+    },
+    {
+      "filename": "sophisticatedstorageinmotion-1.21.1-0.10.24.155.jar",
+      "name": "Sophisticated Storage in Motion",
+      "version": "Unknown",
+      "modid": "sophisticated_storage_in_motion",
+      "side": "both",
+      "url": null,
+      "sha512": "871b5fd7be6fbd42ccf97b498a505fcf3c39e846691ea791964f5560f1d5247e86966ba96f4b5daaedb175bb6485b21233286eedeae356400bc8cea064a7d15c",
+      "size": 403466,
+      "lastModified": "2025-11-13T04:47:13.778Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "6vtFbyaJ",
+        "version": "O3nNftGu"
+      }
+    },
+    {
+      "filename": "sophisticatedstorage-1.21.1-1.5.15.1361.jar",
+      "name": "Sophisticated Storage",
+      "version": "Unknown",
+      "modid": "sophisticated_storage",
+      "side": "both",
+      "url": null,
+      "sha512": "f29b0703f22d088bd6a139cdf24c7d8a4f69fe28b21126c7afe076029746efe2e658b5760b34741a38681012c84451e3a8777e198d96f6db642139973f6ab1b5",
+      "size": 1652898,
+      "lastModified": "2025-11-13T04:47:13.526Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "hMlaZH8f",
+        "version": "h0srxb45"
+      }
+    },
+    {
+      "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "name": "SuperMartijn642's Config Lib",
+      "version": "Unknown",
+      "modid": "supermartijn642_s_config_lib",
+      "side": "both",
+      "url": null,
+      "sha512": "768d8ca178c5e653986f5131b7aeb7fa57ce7d32c16ed399ced01b273565a2b640130c55c7092747efeff40dbb0348876b18b415f59b0d16dd2c7f32f1798ce2",
+      "size": 207514,
+      "lastModified": "2025-11-13T04:25:16.198Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "LN9BxssP",
+        "version": "qKL9jM75"
+      }
+    },
+    {
+      "filename": "supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
+      "name": "SuperMartijn642's Core Lib",
+      "version": "Unknown",
+      "modid": "supermartijn642_s_core_lib",
+      "side": "both",
+      "url": null,
+      "sha512": "6f37d2f76928f1421d7ec4f60dead6ad806606f7a25f0545c547316513284f309396b221749328579c76d75a70fdf22e6f953b27abc5c78f2c2d68f2dfa545bb",
+      "size": 518643,
+      "lastModified": "2025-11-13T04:25:16.711Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "rOUBggPv",
+        "version": "I55kQvEh"
+      }
+    },
+    {
+      "filename": "tectonic-3.0.17-neoforge-1.21.1.jar",
+      "name": "Tectonic",
+      "version": "Unknown",
+      "modid": "tectonic",
+      "side": "server",
+      "url": null,
+      "sha512": "705422e7140332d54de5f2e4eee4f1a82ebfd2d1a36d2e59216ab56982de79b2e6ae62f78927b98b15bdcaedbc7f4a49ff8ee58a1508c06695d594b1583837c8",
+      "size": 317752,
+      "lastModified": "2025-11-13T06:36:23.940Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "lWDHr9jE",
+        "version": "fTPmbv20"
+      }
+    },
+    {
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "name": "TerraBlender",
+      "version": "Unknown",
+      "modid": "terrablender",
+      "side": "both",
+      "url": null,
+      "sha512": "9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50",
+      "size": 120365,
+      "lastModified": "2025-11-13T04:36:02.522Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "kkmrDlKT",
+        "version": "6e8GCrLb"
+      }
+    },
+    {
+      "filename": "Terralith_ReStoned_v1.2.jar",
+      "name": "Terralith ReStoned",
+      "version": "Unknown",
+      "modid": "terralith_restoned",
+      "side": "server",
+      "url": null,
+      "sha512": "4005e9569154cde983fe1d807961402492e26a69afac6a550c9760f0126b5a968bfbe6b489a1e85ffc66f512e6cf90627be50315a6785c96471df0473337f637",
+      "size": 9546,
+      "lastModified": "2025-11-13T04:36:02.741Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "oTQsXi8U",
+        "version": "hcQbM6ry"
+      }
+    },
+    {
+      "filename": "Terralith_1.21.x_v2.5.8.jar",
+      "name": "Terralith",
+      "version": "Unknown",
+      "modid": "terralith",
+      "side": "server",
+      "url": null,
+      "sha512": "f862ed5435ce4c11a97d2ea5c40eee9f817c908f3223b5fd3e3fff0562a55111d7429dc73a2f1ca0b1af7b1ff6fa0470ed6efebb5de13336c40bb70fb357dd60",
+      "size": 3115385,
+      "lastModified": "2025-11-13T04:36:02.895Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "8oi3bsk5",
+        "version": "MuJMtPGQ"
+      }
+    },
+    {
+      "filename": "tweakeroo-fabric-1.21-0.21.59.jar",
+      "name": "Tweakeroo",
+      "version": "Unknown",
+      "modid": "tweakeroo",
+      "side": "client",
+      "url": null,
+      "sha512": "1068d39285c8c0f0e4a43ef5a0ae527a010f924705b4f1803971a7e8303f9be781801555729790d6a3b0aaf79869eea1f4f033f1579055b190f86a1d3a2c7f38",
+      "size": 538265,
+      "lastModified": "2025-11-14T00:05:36.726Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "t5wuYk45",
+        "version": "O8kH9uqc"
+      }
+    },
+    {
+      "filename": "waystones-neoforge-1.21.1-21.1.23.jar",
+      "name": "Waystones",
+      "version": "Unknown",
+      "modid": "waystones",
+      "side": "both",
+      "url": null,
+      "sha512": "741bf879e0a9d0950c8a96e4382136e75587cb4865bd5948f074b3d0de3878b1e61923d834c7469595114030780bc25cf061492a89d2dc20c32a331035c4eb51",
+      "size": 864706,
+      "lastModified": "2025-11-13T04:47:13.770Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "LOpKHB2A",
+        "version": "oM0RXGC6"
+      }
+    },
+    {
+      "filename": "wwoo-2.3.4.jar",
+      "name": "William Wythers' Overhauled Overworld",
+      "version": "Unknown",
+      "modid": "william_wythers__overhauled_overworld",
+      "side": "server",
+      "url": null,
+      "sha512": "4ca1ffa9274152e6b5bf978f03be0bd350599e2481ca42494b3a65f0390cb1c83284185f9758e41fe32136c42dc5d5944d6d355679b2939e2b1f592181fc1c89",
+      "size": 2217959,
+      "lastModified": "2025-11-13T06:37:46.209Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "II7t6llZ",
+        "version": "5nUEDt1Z"
+      }
+    },
+    {
+      "filename": "xaeros-map-server-utils-1.0.1.jar",
+      "name": "Xaero's Map Server Utils",
+      "version": "Unknown",
+      "modid": "xaero_s_map_server_utils",
+      "side": "server",
+      "url": null,
+      "sha512": "bc69acb2fa3e476c2f5efa21d66c8b0b4195c1ce9bb69d95669f1538dbe069eb1033a4cfd6500c26727f9b7bffec1dabe3d278b76fb7ef1b8f0191b5e9f636b9",
+      "size": 8876,
+      "lastModified": "2025-11-13T04:47:13.961Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "YJgkgKMm",
+        "version": "SjSSCVdR"
+      }
+    },
+    {
+      "filename": "xaeromaps_waystones-1.0.6+1.21.x-neoforge.jar",
+      "name": "Xaero's Maps x Waystones",
+      "version": "Unknown",
+      "modid": "xaero_s_maps_x_waystones",
+      "side": "both",
+      "url": null,
+      "sha512": "84b35b1e1417039b32ad3b984425b695cb4d7f3fb6b30dc51176282241b589cdda811b59a4936232e68f165041633ca418182db830e1449726cfbba3c6fd4462",
+      "size": 83474,
+      "lastModified": "2025-11-13T04:47:13.786Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "iv2jCzkP",
+        "version": "3M2DErA4"
+      }
+    },
+    {
+      "filename": "Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
+      "name": "Xaero's Minimap",
+      "version": "Unknown",
+      "modid": "xaero_s_minimap",
+      "side": "both",
+      "url": null,
+      "sha512": "8c39668792ea4053e0dfd52f7045819dde26b18dddf2deae2a76b1873c9593f4c4c1b5c51c7134e288732ce35cd360fd01904354334e8320cb35634090e74988",
+      "size": 1710781,
+      "lastModified": "2025-11-13T04:47:13.838Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "1bokaNcj",
+        "version": "DyuxZXfy"
+      }
+    },
+    {
+      "filename": "XaerosWorldMap_1.39.12_NeoForge_1.21.jar",
+      "name": "Xaero's World Map",
+      "version": "Unknown",
+      "modid": "xaero_s_world_map",
+      "side": "both",
+      "url": null,
+      "sha512": "1753332e797230f81865607e8e90ddb97c8093154974de02f0b3dc00e7a4bc62ff268314260bc6b215aaea17c0cef3f78ea9e8c66f5c97179496b8bc42cf0ebd",
+      "size": 955196,
+      "lastModified": "2025-11-13T04:47:13.948Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "NcUtCpym",
+        "version": "3WghnUq9"
+      }
+    },
+    {
+      "filename": "yet_another_config_lib_v3-3.8.0+1.21.1-neoforge.jar",
+      "name": "YetAnotherConfigLib (YACL)",
+      "version": "Unknown",
+      "modid": "yetanotherconfiglib__yacl_",
+      "side": "both",
+      "url": null,
+      "sha512": "bec8d66c49034a4acacd69a08f56444f8561e7d64570ccde0d9401389927fe41b4fe6cc8b055395286bc3f2d38abac5a57ac3b304f220042ed7c4d5e10275e97",
+      "size": 1117442,
+      "lastModified": "2025-11-13T18:33:38.273Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "1eAoo2KR",
+        "version": "d5rKuZdL"
+      }
+    },
+    {
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "name": "YUNG's API",
+      "version": "Unknown",
+      "modid": "yung_s_api",
+      "side": "both",
+      "url": null,
+      "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d",
+      "size": 388678,
+      "lastModified": "2025-11-13T19:54:48.610Z",
+      "disabled": false,
+      "modrinth": {
+        "modId": "Ua7DFN59",
+        "version": "ZB22DE9q"
+      }
+    }
+  ],
+  "scannedAt": "2025-11-14T00:39:04.515Z",
+  "instanceName": "[Base] Glencraft- Cog & Mon v2.0"
+}

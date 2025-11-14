@@ -1,0 +1,44 @@
+{
+  "name": "glencraft-cog-n-mon",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "GlenCraft: Cog & Mon - A comprehensive Minecraft modpack combining Cobblemon with Create mod automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run",
+    "sync": "node scripts/sync.js",
+    "build": "node scripts/build.js",
+    "server": "node scripts/server.js",
+    "deploy": "node scripts/deploy.js",
+    "deploy:yes": "node scripts/deploy.js -y",
+    "deploy:dev": "node scripts/deploy.js --skip-libraries",
+    "deploy:dev:yes": "node scripts/deploy.js -y --skip-libraries",
+    "clean": "rm -rf dist/ releases/"
+  },
+  "keywords": [
+    "minecraft",
+    "modpack",
+    "cobblemon",
+    "create",
+    "pokemon",
+    "kubejs"
+  ],
+  "author": "RhettL",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.3.1",
+    "@iarna/toml": "^2.2.5",
+    "fs-extra": "^11.2.0",
+    "archiver": "^6.0.1",
+    "ssh2-sftp-client": "^10.0.3"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0"
+  },
+  "private": true
+}
